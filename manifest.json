@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "archiveYear": 2026,
+  "revision": 1,
+  "updatedAt": "2026-09-19T21:44:09.060Z",
+  "scanCount": 3,
+  "serverCount": 3,
+  "scans": [
+    {
+      "id": "stumblesteppe_net:1789853096141",
+      "server": "stumblesteppe_net",
+      "timestamp": 1789853096141,
+      "timestampUtc": "2026-09-19T21:24:56.141Z",
+      "path": "2026-09/stumblesteppe_net/2026-09-19_212456141Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "df2dd6d753df33c422cdfa1966dc2cf3c8a572657fdc0682f1b9105a1c91025f",
+      "compressedBytes": 633954,
+      "uncompressedBytes": 2218999,
+      "playerCount": 1234,
+      "groupCount": 108
+    },
+    {
+      "id": "f8_net:1789853183115",
+      "server": "f8_net",
+      "timestamp": 1789853183115,
+      "timestampUtc": "2026-09-19T21:26:23.115Z",
+      "path": "2026-09/f8_net/2026-09-19_212623115Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "4fc271c8b7d0717518262e23ebcf982f68f8551be31ccb03ce8512706e3579d5",
+      "compressedBytes": 611810,
+      "uncompressedBytes": 2121007,
+      "playerCount": 1229,
+      "groupCount": 112
+    },
+    {
+      "id": "s30_eu:1789854249060",
+      "server": "s30_eu",
+      "timestamp": 1789854249060,
+      "timestampUtc": "2026-09-19T21:44:09.060Z",
+      "path": "2026-09/s30_eu/2026-09-19_214409060Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "411b5c87975532887437faf1e9948c560b8866112e591d72914a8b67e45c71f9",
+      "compressedBytes": 1012185,
+      "uncompressedBytes": 3285751,
+      "playerCount": 2206,
+      "groupCount": 135
+    }
+  ]
+}
