@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "archiveYear": 2026,
-  "revision": 1,
-  "updatedAt": "2026-09-19T21:44:09.060Z",
+  "revision": 2,
+  "updatedAt": "2026-09-29T14:26:34.940Z",
   "scanCount": 3,
   "serverCount": 3,
   "scans": [
@@ -18,7 +18,16 @@
       "compressedBytes": 633954,
       "uncompressedBytes": 2218999,
       "playerCount": 1234,
-      "groupCount": 108
+      "groupCount": 108,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-09/stumblesteppe_net/2026-09-19_212456141Z.search.json.gz",
+        "sha256": "dfc7443ef667ad018525a0a1ba93f444be867db4e705f89d0654d0b609b0946f",
+        "compressedBytes": 21162,
+        "uncompressedBytes": 188475,
+        "playerCount": 1234,
+        "groupCount": 108
+      }
     },
     {
       "id": "f8_net:1789853183115",
@@ -32,7 +41,16 @@
       "compressedBytes": 611810,
       "uncompressedBytes": 2121007,
       "playerCount": 1229,
-      "groupCount": 112
+      "groupCount": 112,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-09/f8_net/2026-09-19_212623115Z.search.json.gz",
+        "sha256": "220a3dc1bf99c68be074fb667c6ffd41cf937f96562270e67c8dae755f2c6397",
+        "compressedBytes": 20580,
+        "uncompressedBytes": 159956,
+        "playerCount": 1229,
+        "groupCount": 112
+      }
     },
     {
       "id": "s30_eu:1789854249060",
@@ -46,7 +64,31 @@
       "compressedBytes": 1012185,
       "uncompressedBytes": 3285751,
       "playerCount": 2206,
-      "groupCount": 135
+      "groupCount": 135,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-09/s30_eu/2026-09-19_214409060Z.search.json.gz",
+        "sha256": "350dd34873942adca57e8eb0ab629cd3586a94dab2fe59add2ac81cea80bef67",
+        "compressedBytes": 34314,
+        "uncompressedBytes": 267760,
+        "playerCount": 2206,
+        "groupCount": 135
+      }
     }
-  ]
+  ],
+  "toplists": {
+    "schemaVersion": 1,
+    "current": {
+      "f8_net": "f8_net:1789853183115",
+      "s30_eu": "s30_eu:1789854249060",
+      "stumblesteppe_net": "stumblesteppe_net:1789853096141"
+    },
+    "monthly": {
+      "2026-09": {
+        "f8_net": "f8_net:1789853183115",
+        "s30_eu": "s30_eu:1789854249060",
+        "stumblesteppe_net": "stumblesteppe_net:1789853096141"
+      }
+    }
+  }
 }
