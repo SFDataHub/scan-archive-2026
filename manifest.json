@@ -1,14 +1,1796 @@
 {
   "schemaVersion": 1,
   "archiveYear": 2026,
-  "revision": 5,
-  "updatedAt": "2026-10-03T11:11:33.783Z",
-  "scanCount": 0,
-  "serverCount": 0,
-  "scans": [],
+  "revision": 6,
+  "updatedAt": "2026-10-03T11:27:21.731Z",
+  "scanCount": 57,
+  "serverCount": 44,
+  "scans": [
+    {
+      "id": "s28_eu:1785665429016",
+      "server": "s28_eu",
+      "timestamp": 1785665429016,
+      "timestampUtc": "2026-08-02T10:10:29.016Z",
+      "path": "2026-08/s28_eu/2026-08-02_101029016Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "feb6e77b3c062249ada1f26db06c722b093e90d95e3bbb8395c69d6a8d3a1bcd",
+      "compressedBytes": 210787,
+      "uncompressedBytes": 678787,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s28_eu/2026-08-02_101029016Z.search.json.gz",
+        "sha256": "215be7fe6a89bed0c58c1490e58aef7b65d7201af4d2f75bd32b25201cb3f0d3",
+        "compressedBytes": 7540,
+        "uncompressedBytes": 58899,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s29_eu:1785665619463",
+      "server": "s29_eu",
+      "timestamp": 1785665619463,
+      "timestampUtc": "2026-08-02T10:13:39.463Z",
+      "path": "2026-08/s29_eu/2026-08-02_101339463Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "6ff86c2c1c33c6187f75aab094cf41d30e1e047152ab4ed0425fc19a674887ed",
+      "compressedBytes": 199734,
+      "uncompressedBytes": 641499,
+      "playerCount": 499,
+      "groupCount": 6,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s29_eu/2026-08-02_101339463Z.search.json.gz",
+        "sha256": "9b6c7d9ce1a147e2f43f49692ff52b46844ff3999fb0e2e25724201f75e81d92",
+        "compressedBytes": 8255,
+        "uncompressedBytes": 58716,
+        "playerCount": 499,
+        "groupCount": 6
+      }
+    },
+    {
+      "id": "s27_eu:1785665832003",
+      "server": "s27_eu",
+      "timestamp": 1785665832003,
+      "timestampUtc": "2026-08-02T10:17:12.003Z",
+      "path": "2026-08/s27_eu/2026-08-02_101712003Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "d56f86a7208ad5dab40b67e1748f5c39a09787149286dbff618416707b282ada",
+      "compressedBytes": 198810,
+      "uncompressedBytes": 693578,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s27_eu/2026-08-02_101712003Z.search.json.gz",
+        "sha256": "35ff9d1d180d0f0924d76355887f834e45ae2f143225b4d78b0a854dacade8bf",
+        "compressedBytes": 7207,
+        "uncompressedBytes": 59375,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s26_eu:1785666144588",
+      "server": "s26_eu",
+      "timestamp": 1785666144588,
+      "timestampUtc": "2026-08-02T10:22:24.588Z",
+      "path": "2026-08/s26_eu/2026-08-02_102224588Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "60c8f3b2afb94f88fb4ae779be337dcff5746324a320f2574a75c295fdcd5c19",
+      "compressedBytes": 199639,
+      "uncompressedBytes": 700925,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s26_eu/2026-08-02_102224588Z.search.json.gz",
+        "sha256": "e8b8864a130a95cf2bf4ddbdee6ea325029f8386261f0e942e468294fb76b5a0",
+        "compressedBytes": 7639,
+        "uncompressedBytes": 59344,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s25_eu:1785666342462",
+      "server": "s25_eu",
+      "timestamp": 1785666342462,
+      "timestampUtc": "2026-08-02T10:25:42.462Z",
+      "path": "2026-08/s25_eu/2026-08-02_102542462Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "1aaa4d36d556c3495184ae87067702e72f58de29b01bf9718842346b330f8bec",
+      "compressedBytes": 201027,
+      "uncompressedBytes": 711492,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s25_eu/2026-08-02_102542462Z.search.json.gz",
+        "sha256": "66cfd4d3ed95caa847c3f4562f38306da795ec2c75af66ad9f32187f538c10cb",
+        "compressedBytes": 7630,
+        "uncompressedBytes": 59724,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s24_eu:1785666560936",
+      "server": "s24_eu",
+      "timestamp": 1785666560936,
+      "timestampUtc": "2026-08-02T10:29:20.936Z",
+      "path": "2026-08/s24_eu/2026-08-02_102920936Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "b5ed37d3a2b83a9f7e5467d81ea395c0c0bc5b7f5871f4e8028493e0b1eaae3c",
+      "compressedBytes": 200514,
+      "uncompressedBytes": 711677,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s24_eu/2026-08-02_102920936Z.search.json.gz",
+        "sha256": "bc4f8e59a44af1431ce5d6c0f9da81a8799e5c80b9941f6b76f2b5ffd075733f",
+        "compressedBytes": 7662,
+        "uncompressedBytes": 59467,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s23_eu:1785666771797",
+      "server": "s23_eu",
+      "timestamp": 1785666771797,
+      "timestampUtc": "2026-08-02T10:32:51.797Z",
+      "path": "2026-08/s23_eu/2026-08-02_103251797Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "8fe120d11373c2e9e97fd1be363b857b429ea863cd98300d4ede8f5e506582ea",
+      "compressedBytes": 199383,
+      "uncompressedBytes": 700010,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s23_eu/2026-08-02_103251797Z.search.json.gz",
+        "sha256": "1c411fb0c08ecc007def9bc0cb72169039455952813e6b82771eea0a346d0fff",
+        "compressedBytes": 7744,
+        "uncompressedBytes": 59542,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s22_eu:1785666989498",
+      "server": "s22_eu",
+      "timestamp": 1785666989498,
+      "timestampUtc": "2026-08-02T10:36:29.498Z",
+      "path": "2026-08/s22_eu/2026-08-02_103629498Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "f1c8052662a7bb026df4300b3a65a9b25147150a28b95def8b4f729f8a09dfff",
+      "compressedBytes": 200698,
+      "uncompressedBytes": 700065,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s22_eu/2026-08-02_103629498Z.search.json.gz",
+        "sha256": "bea69bb0acd8e7aff37a1925d7f96512f30bc4ec29adf96fd5a0ae5483b4a3ab",
+        "compressedBytes": 7613,
+        "uncompressedBytes": 58677,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s21_eu:1785667267241",
+      "server": "s21_eu",
+      "timestamp": 1785667267241,
+      "timestampUtc": "2026-08-02T10:41:07.241Z",
+      "path": "2026-08/s21_eu/2026-08-02_104107241Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a2fdc5c1d7a8b91b8b738f3c1792ea7f53265717622e9fe122c45388413f0d20",
+      "compressedBytes": 200709,
+      "uncompressedBytes": 696940,
+      "playerCount": 496,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s21_eu/2026-08-02_104107241Z.search.json.gz",
+        "sha256": "411c95c939f8b633d02f38cf11a5f740bafdc2ec448bf18b053476b6a4c164a6",
+        "compressedBytes": 7798,
+        "uncompressedBytes": 59462,
+        "playerCount": 496,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "maerwynn_net:1785667470302",
+      "server": "maerwynn_net",
+      "timestamp": 1785667470302,
+      "timestampUtc": "2026-08-02T10:44:30.302Z",
+      "path": "2026-08/maerwynn_net/2026-08-02_104430302Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "f7786d85393136fd1747c0e68a33df817ab2a0d33acff7077fb92fe0f3bdb808",
+      "compressedBytes": 324637,
+      "uncompressedBytes": 1125794,
+      "playerCount": 750,
+      "groupCount": 16,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/maerwynn_net/2026-08-02_104430302Z.search.json.gz",
+        "sha256": "23ce2ac0c35b5d7b68c3c40ab5d1e3952fe266dde2921ce7d61862d4cc35a43b",
+        "compressedBytes": 12236,
+        "uncompressedBytes": 104176,
+        "playerCount": 750,
+        "groupCount": 16
+      }
+    },
+    {
+      "id": "s20_eu:1785667515904",
+      "server": "s20_eu",
+      "timestamp": 1785667515904,
+      "timestampUtc": "2026-08-02T10:45:15.904Z",
+      "path": "2026-08/s20_eu/2026-08-02_104515904Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "377841b3de0ce0ed20297ed643a756ad1deee2df274e876d355ce14f8815fb1b",
+      "compressedBytes": 206158,
+      "uncompressedBytes": 725314,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s20_eu/2026-08-02_104515904Z.search.json.gz",
+        "sha256": "9f042323798f080ee2da925ccb8f786521fa511f1b8dedcc9927a42caa1b69f3",
+        "compressedBytes": 7693,
+        "uncompressedBytes": 59873,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s19_eu:1785667768913",
+      "server": "s19_eu",
+      "timestamp": 1785667768913,
+      "timestampUtc": "2026-08-02T10:49:28.913Z",
+      "path": "2026-08/s19_eu/2026-08-02_104928913Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "5976d185a27bae63bc9f2f416ca264817c24e907a662e4659cca3d7acd931a3e",
+      "compressedBytes": 193969,
+      "uncompressedBytes": 678983,
+      "playerCount": 481,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s19_eu/2026-08-02_104928913Z.search.json.gz",
+        "sha256": "28f9c5f876b6f9a100093e3f2f3dd2c53240b4931451a1feb5d5bf4254e69be1",
+        "compressedBytes": 7527,
+        "uncompressedBytes": 57719,
+        "playerCount": 481,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "gnarogrim_net:1785667782930",
+      "server": "gnarogrim_net",
+      "timestamp": 1785667782930,
+      "timestampUtc": "2026-08-02T10:49:42.930Z",
+      "path": "2026-08/gnarogrim_net/2026-08-02_104942930Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a18df4a6ed565b4d9aebe9c372f2c848de876525279254cf8cc496200ae9019e",
+      "compressedBytes": 321285,
+      "uncompressedBytes": 1136252,
+      "playerCount": 749,
+      "groupCount": 15,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/gnarogrim_net/2026-08-02_104942930Z.search.json.gz",
+        "sha256": "c625f3a501362715fca4e3aee94d06adddb28cc3f5dbfecd7d148596454b77b3",
+        "compressedBytes": 11847,
+        "uncompressedBytes": 105596,
+        "playerCount": 749,
+        "groupCount": 15
+      }
+    },
+    {
+      "id": "s18_eu:1785668052976",
+      "server": "s18_eu",
+      "timestamp": 1785668052976,
+      "timestampUtc": "2026-08-02T10:54:12.976Z",
+      "path": "2026-08/s18_eu/2026-08-02_105412976Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "87cb2d45e7d6901207a90f66636272ee90e58680a03b4c840812829a1a023f52",
+      "compressedBytes": 203799,
+      "uncompressedBytes": 711928,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s18_eu/2026-08-02_105412976Z.search.json.gz",
+        "sha256": "179e176bf70be3a6b9f8b0069871a8b4fbb4302612281cf5d09810fe9326f0b2",
+        "compressedBytes": 7688,
+        "uncompressedBytes": 59535,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f28_net:1785668127783",
+      "server": "f28_net",
+      "timestamp": 1785668127783,
+      "timestampUtc": "2026-08-02T10:55:27.783Z",
+      "path": "2026-08/f28_net/2026-08-02_105527783Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "4600d040c1e1eb2675160eff702efbce016560023338605fa652f1cb66e75772",
+      "compressedBytes": 422168,
+      "uncompressedBytes": 1460794,
+      "playerCount": 997,
+      "groupCount": 20,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f28_net/2026-08-02_105527783Z.search.json.gz",
+        "sha256": "9b0587c5a3da5fd06fb28dc6cef3167543e8ede6532642faeabfc55b3580eaf8",
+        "compressedBytes": 15645,
+        "uncompressedBytes": 123178,
+        "playerCount": 997,
+        "groupCount": 20
+      }
+    },
+    {
+      "id": "s17_eu:1785668266690",
+      "server": "s17_eu",
+      "timestamp": 1785668266690,
+      "timestampUtc": "2026-08-02T10:57:46.690Z",
+      "path": "2026-08/s17_eu/2026-08-02_105746690Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "f3e687bb5b1a3491ed769a6814209c7e0343a18588fc0ef195a690a5f9af9acf",
+      "compressedBytes": 204944,
+      "uncompressedBytes": 713242,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s17_eu/2026-08-02_105746690Z.search.json.gz",
+        "sha256": "8613acb989d196eab6bfc08bc6cd3aef57d902909e2f147d6b0a32a3dd1e86ac",
+        "compressedBytes": 7727,
+        "uncompressedBytes": 60355,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "stumblesteppe_net:1785668361525",
+      "server": "stumblesteppe_net",
+      "timestamp": 1785668361525,
+      "timestampUtc": "2026-08-02T10:59:21.525Z",
+      "path": "2026-08/stumblesteppe_net/2026-08-02_105921525Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "86ad109acc14d8ee53f8eb0ea94767da2ef3aa697dadd88370064506690e910c",
+      "compressedBytes": 323275,
+      "uncompressedBytes": 1124361,
+      "playerCount": 748,
+      "groupCount": 15,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/stumblesteppe_net/2026-08-02_105921525Z.search.json.gz",
+        "sha256": "38df5677caafecbf4cb4a554b333c2ec888af2743edfde733ca49f1e12c07103",
+        "compressedBytes": 11972,
+        "uncompressedBytes": 110339,
+        "playerCount": 748,
+        "groupCount": 15
+      }
+    },
+    {
+      "id": "s16_eu:1785668508499",
+      "server": "s16_eu",
+      "timestamp": 1785668508499,
+      "timestampUtc": "2026-08-02T11:01:48.499Z",
+      "path": "2026-08/s16_eu/2026-08-02_110148499Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a9bbb6cd05b8670400eb529be57b5879109f8d4b4b208e4eb7991f95732e59c9",
+      "compressedBytes": 199836,
+      "uncompressedBytes": 703014,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s16_eu/2026-08-02_110148499Z.search.json.gz",
+        "sha256": "a1fb9abc10619cdfc3ed1a8bb538926985b886a479d7aeea7a1f949e67878aff",
+        "compressedBytes": 7777,
+        "uncompressedBytes": 59454,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s15_eu:1785668732294",
+      "server": "s15_eu",
+      "timestamp": 1785668732294,
+      "timestampUtc": "2026-08-02T11:05:32.294Z",
+      "path": "2026-08/s15_eu/2026-08-02_110532294Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "2007fc2111212678148bcdc0a364e7bdd5919da4bdbd8d505b9859db8ffc78f2",
+      "compressedBytes": 202904,
+      "uncompressedBytes": 712123,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s15_eu/2026-08-02_110532294Z.search.json.gz",
+        "sha256": "62127d66bb4cd33e65e84589a6bf9f00f2f9654db0cacce8db9303620e908c63",
+        "compressedBytes": 7696,
+        "uncompressedBytes": 59823,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f27_net:1785668756895",
+      "server": "f27_net",
+      "timestamp": 1785668756895,
+      "timestampUtc": "2026-08-02T11:05:56.895Z",
+      "path": "2026-08/f27_net/2026-08-02_110556895Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "efec52cac1792a44143f85a0a4b8b97477c4723bab491a56656e12853043bcfe",
+      "compressedBytes": 218091,
+      "uncompressedBytes": 750521,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f27_net/2026-08-02_110556895Z.search.json.gz",
+        "sha256": "1e3007ff766e05a01e68d0075aa2712f8b679a0984f4988a436fe224214a506a",
+        "compressedBytes": 8003,
+        "uncompressedBytes": 62951,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "blackforest_net:1785668916697",
+      "server": "blackforest_net",
+      "timestamp": 1785668916697,
+      "timestampUtc": "2026-08-02T11:08:36.697Z",
+      "path": "2026-08/blackforest_net/2026-08-02_110836697Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "67fdff39cf397c2b87cc8d4db43fdb47690a996949a85ca45e3e8dce4dfb5fd5",
+      "compressedBytes": 316642,
+      "uncompressedBytes": 1128634,
+      "playerCount": 749,
+      "groupCount": 15,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/blackforest_net/2026-08-02_110836697Z.search.json.gz",
+        "sha256": "ce61bbbccc47c65455101f1faaf3e6ac56208f5952063f06e9835aaf3525fb83",
+        "compressedBytes": 12048,
+        "uncompressedBytes": 108198,
+        "playerCount": 749,
+        "groupCount": 15
+      }
+    },
+    {
+      "id": "s14_eu:1785668968969",
+      "server": "s14_eu",
+      "timestamp": 1785668968969,
+      "timestampUtc": "2026-08-02T11:09:28.969Z",
+      "path": "2026-08/s14_eu/2026-08-02_110928969Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "65b6e6c86514cb2141d7ebbb532b59a9501cb67cc828689aa667fe5fe22ef8c7",
+      "compressedBytes": 199654,
+      "uncompressedBytes": 690166,
+      "playerCount": 497,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s14_eu/2026-08-02_110928969Z.search.json.gz",
+        "sha256": "fa7b8a6a2e95b2f21ecb148d0edbfa6fd5cd81d9d89d1306281651c264850fb2",
+        "compressedBytes": 7870,
+        "uncompressedBytes": 60072,
+        "playerCount": 497,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s13_eu:1785669165376",
+      "server": "s13_eu",
+      "timestamp": 1785669165376,
+      "timestampUtc": "2026-08-02T11:12:45.376Z",
+      "path": "2026-08/s13_eu/2026-08-02_111245376Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "137adc6d1c986dfeed689c8a109564dd9427913601970002d79b86a596abd568",
+      "compressedBytes": 204250,
+      "uncompressedBytes": 704127,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s13_eu/2026-08-02_111245376Z.search.json.gz",
+        "sha256": "96f2b5a9eee888b603f8c3a17df0f4c587746bd383f21f8f5708739809b809bb",
+        "compressedBytes": 7897,
+        "uncompressedBytes": 59338,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f8_net:1785669187277",
+      "server": "f8_net",
+      "timestamp": 1785669187277,
+      "timestampUtc": "2026-08-02T11:13:07.277Z",
+      "path": "2026-08/f8_net/2026-08-02_111307277Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "6bde7691257620ce05cd90c7e8369060dd06655d07a7a4477ac748be992cedaf",
+      "compressedBytes": 257258,
+      "uncompressedBytes": 883268,
+      "playerCount": 599,
+      "groupCount": 13,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f8_net/2026-08-02_111307277Z.search.json.gz",
+        "sha256": "f0a6a39c84d951637b5c4bcf9e675d38feea93253d25c5a22d0abae5e2e0b893",
+        "compressedBytes": 9513,
+        "uncompressedBytes": 75309,
+        "playerCount": 599,
+        "groupCount": 13
+      }
+    },
+    {
+      "id": "s12_eu:1785669365850",
+      "server": "s12_eu",
+      "timestamp": 1785669365850,
+      "timestampUtc": "2026-08-02T11:16:05.850Z",
+      "path": "2026-08/s12_eu/2026-08-02_111605850Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "7e66c9a295ac36f705037e83eab51e467ffcad2820ff6f2b690b3c208f02f21f",
+      "compressedBytes": 202742,
+      "uncompressedBytes": 701515,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s12_eu/2026-08-02_111605850Z.search.json.gz",
+        "sha256": "5c7989a87468a1b30e2d8527fc12183cb56cf997e49e8bdd1dd35ad378eb504a",
+        "compressedBytes": 7894,
+        "uncompressedBytes": 60077,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f9_net:1785669386370",
+      "server": "f9_net",
+      "timestamp": 1785669386370,
+      "timestampUtc": "2026-08-02T11:16:26.370Z",
+      "path": "2026-08/f9_net/2026-08-02_111626370Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "24a59e2ee26ecbb0908a6436445854c2544be7e56f73b8aa23555ab23a6a7ff2",
+      "compressedBytes": 212537,
+      "uncompressedBytes": 731663,
+      "playerCount": 500,
+      "groupCount": 11,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f9_net/2026-08-02_111626370Z.search.json.gz",
+        "sha256": "2593dfd0bcc1faa542200f77f41412579a8cfc700b47490217303f7849fb1595",
+        "compressedBytes": 7941,
+        "uncompressedBytes": 61948,
+        "playerCount": 500,
+        "groupCount": 11
+      }
+    },
+    {
+      "id": "f26_net:1785669420408",
+      "server": "f26_net",
+      "timestamp": 1785669420408,
+      "timestampUtc": "2026-08-02T11:17:00.408Z",
+      "path": "2026-08/f26_net/2026-08-02_111700408Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "04bb8943c04f0b4504b81454fdacfda9cbeeecdc80afd4cb0fd4d26843bc9c06",
+      "compressedBytes": 211672,
+      "uncompressedBytes": 728911,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f26_net/2026-08-02_111700408Z.search.json.gz",
+        "sha256": "c1a5db6ec07de2cf2722a1451a02821b33ad0867b4d381c4b5ee2b221b431925",
+        "compressedBytes": 7882,
+        "uncompressedBytes": 61184,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s11_eu:1785669572911",
+      "server": "s11_eu",
+      "timestamp": 1785669572911,
+      "timestampUtc": "2026-08-02T11:19:32.911Z",
+      "path": "2026-08/s11_eu/2026-08-02_111932911Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "0afaa0d6d86087ec0c461b6b2faf4bc148bd3a525a68dbd4cbe3f987d6d27a71",
+      "compressedBytes": 204843,
+      "uncompressedBytes": 713024,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s11_eu/2026-08-02_111932911Z.search.json.gz",
+        "sha256": "fd8d9f0282a43aae3d2bf0b937ae9de1ed1e1e4bbdc2f0e0ee0677de372168e5",
+        "compressedBytes": 7922,
+        "uncompressedBytes": 60929,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f11_net:1785669605220",
+      "server": "f11_net",
+      "timestamp": 1785669605220,
+      "timestampUtc": "2026-08-02T11:20:05.220Z",
+      "path": "2026-08/f11_net/2026-08-02_112005220Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "695146124cedf5de9e0690978aba73a27f693cd7b7ba3b129d695aae4a782407",
+      "compressedBytes": 213701,
+      "uncompressedBytes": 736761,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f11_net/2026-08-02_112005220Z.search.json.gz",
+        "sha256": "3a2142b9c11976fb1dcfba63edd1b53ca0b33e93753d9ffb539a385ae5385780",
+        "compressedBytes": 7944,
+        "uncompressedBytes": 63947,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s10_eu:1785669783798",
+      "server": "s10_eu",
+      "timestamp": 1785669783798,
+      "timestampUtc": "2026-08-02T11:23:03.798Z",
+      "path": "2026-08/s10_eu/2026-08-02_112303798Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "e935322d72164d9f050d1214b11de809819f8de752baee87f388bbbc36591f41",
+      "compressedBytes": 209778,
+      "uncompressedBytes": 734229,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s10_eu/2026-08-02_112303798Z.search.json.gz",
+        "sha256": "86dc2746787fe33e53fb4a26e3b91320138c6f8b117d1f98a38fc26cf40cfbe8",
+        "compressedBytes": 7705,
+        "uncompressedBytes": 59497,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f14_net:1785669810129",
+      "server": "f14_net",
+      "timestamp": 1785669810129,
+      "timestampUtc": "2026-08-02T11:23:30.129Z",
+      "path": "2026-08/f14_net/2026-08-02_112330129Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "fb51581c41b7aee82cdbde5534a9909205001e6505a73ab20aa8872c579f1ed7",
+      "compressedBytes": 207362,
+      "uncompressedBytes": 720786,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f14_net/2026-08-02_112330129Z.search.json.gz",
+        "sha256": "5924669d48d1318aeb55258f2f6024741b301768c5727d5635af20b73a4b38bc",
+        "compressedBytes": 8312,
+        "uncompressedBytes": 64434,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f25_net:1785669850643",
+      "server": "f25_net",
+      "timestamp": 1785669850643,
+      "timestampUtc": "2026-08-02T11:24:10.643Z",
+      "path": "2026-08/f25_net/2026-08-02_112410643Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "1c44cb5cb8e9c1f7885ea75144d85b03ac413d2a8cac80a3fdfa22b1399f98d3",
+      "compressedBytes": 207716,
+      "uncompressedBytes": 731318,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f25_net/2026-08-02_112410643Z.search.json.gz",
+        "sha256": "b843b8f717eb7ec60c8ff38c214a0dd645cd185ed47828cbc5b2684635b3045b",
+        "compressedBytes": 7853,
+        "uncompressedBytes": 61774,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s9_eu:1785670039541",
+      "server": "s9_eu",
+      "timestamp": 1785670039541,
+      "timestampUtc": "2026-08-02T11:27:19.541Z",
+      "path": "2026-08/s9_eu/2026-08-02_112719541Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "c7bd0bf8b6893fcfbb27c3e88493fcff71e7998c2ffa733d487b251e9a0ded8d",
+      "compressedBytes": 205220,
+      "uncompressedBytes": 712179,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s9_eu/2026-08-02_112719541Z.search.json.gz",
+        "sha256": "69687d3cdfdf015248a8bc5fd085fc165548fc795ee52f3f767320d41ab1244f",
+        "compressedBytes": 8024,
+        "uncompressedBytes": 59853,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s8_eu:1785670258015",
+      "server": "s8_eu",
+      "timestamp": 1785670258015,
+      "timestampUtc": "2026-08-02T11:30:58.015Z",
+      "path": "2026-08/s8_eu/2026-08-02_113058015Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "30abb06db33218ff2f708dca4ab395d316bf54dcfba217fb1f55fe6c37feebfb",
+      "compressedBytes": 206809,
+      "uncompressedBytes": 723555,
+      "playerCount": 501,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s8_eu/2026-08-02_113058015Z.search.json.gz",
+        "sha256": "de48352d0412538e3675887fbe28f86d8c5552f430e3063051af5ae21641837c",
+        "compressedBytes": 7810,
+        "uncompressedBytes": 58887,
+        "playerCount": 501,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f24_net:1785670345462",
+      "server": "f24_net",
+      "timestamp": 1785670345462,
+      "timestampUtc": "2026-08-02T11:32:25.462Z",
+      "path": "2026-08/f24_net/2026-08-02_113225462Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "03c66bc4b32706f7da42a8fcce2808d01b4504f0f44ba569353237c37eb65f97",
+      "compressedBytes": 212337,
+      "uncompressedBytes": 733171,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f24_net/2026-08-02_113225462Z.search.json.gz",
+        "sha256": "ef75f6c9d6f2b11e3284b989b46a955e80075704283402b62fb4eb7f16ea02b3",
+        "compressedBytes": 7906,
+        "uncompressedBytes": 61383,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s7_eu:1785670477676",
+      "server": "s7_eu",
+      "timestamp": 1785670477676,
+      "timestampUtc": "2026-08-02T11:34:37.676Z",
+      "path": "2026-08/s7_eu/2026-08-02_113437676Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "0192f050b34a1a0dd58207b4cd9239d8e98fdc24385aa887610b52ee1530db49",
+      "compressedBytes": 204609,
+      "uncompressedBytes": 705835,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s7_eu/2026-08-02_113437676Z.search.json.gz",
+        "sha256": "d574e1e766497f67f11bcbb0ac84418d8ecd45c47cf53ff2e1c193c16ac34b27",
+        "compressedBytes": 7986,
+        "uncompressedBytes": 58788,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s6_eu:1785670687511",
+      "server": "s6_eu",
+      "timestamp": 1785670687511,
+      "timestampUtc": "2026-08-02T11:38:07.511Z",
+      "path": "2026-08/s6_eu/2026-08-02_113807511Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a5afbb2f7d6b94f09c3551f13f50f4851961d555be006e25128a83c06690f3df",
+      "compressedBytes": 205498,
+      "uncompressedBytes": 700773,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s6_eu/2026-08-02_113807511Z.search.json.gz",
+        "sha256": "dc67a2e5342b310ff2061acb4c4e5aa77efd21d7a16abc7404f3282f0ee55523",
+        "compressedBytes": 8028,
+        "uncompressedBytes": 60016,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f23_net:1785670738936",
+      "server": "f23_net",
+      "timestamp": 1785670738936,
+      "timestampUtc": "2026-08-02T11:38:58.936Z",
+      "path": "2026-08/f23_net/2026-08-02_113858936Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "0ecf6e11c1000d6e6e0edfd8503b2751934a2940e7c59968b648f3ec6322deee",
+      "compressedBytes": 211413,
+      "uncompressedBytes": 741163,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f23_net/2026-08-02_113858936Z.search.json.gz",
+        "sha256": "23414da81dc1e7d97f73c0179f890a099a8d18538cbce0edec2a849006a0ab25",
+        "compressedBytes": 8051,
+        "uncompressedBytes": 62476,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "s5_eu:1785670895732",
+      "server": "s5_eu",
+      "timestamp": 1785670895732,
+      "timestampUtc": "2026-08-02T11:41:35.732Z",
+      "path": "2026-08/s5_eu/2026-08-02_114135732Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a006ff61d1d4bc46d19c47025f07afca3d0571daa8f825665c49c7f987a76377",
+      "compressedBytes": 209705,
+      "uncompressedBytes": 716190,
+      "playerCount": 498,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/s5_eu/2026-08-02_114135732Z.search.json.gz",
+        "sha256": "134d990dc6afcab7b22dabf52190cb6ac578075fdbbd2614f5a4a1c2e1afb973",
+        "compressedBytes": 7899,
+        "uncompressedBytes": 58662,
+        "playerCount": 498,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f22_net:1785671269362",
+      "server": "f22_net",
+      "timestamp": 1785671269362,
+      "timestampUtc": "2026-08-02T11:47:49.362Z",
+      "path": "2026-08/f22_net/2026-08-02_114749362Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "d2dd07df7eedd6cf96e6ab29059db2f6495d87eff402db8f5229c739356fa264",
+      "compressedBytes": 213193,
+      "uncompressedBytes": 736863,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f22_net/2026-08-02_114749362Z.search.json.gz",
+        "sha256": "45499176297f328440a1aa82b3bd716cae125ae283187c5d7899d4ed301a81ab",
+        "compressedBytes": 8199,
+        "uncompressedBytes": 63273,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "blackforest_net:1785671513042",
+      "server": "blackforest_net",
+      "timestamp": 1785671513042,
+      "timestampUtc": "2026-08-02T11:51:53.042Z",
+      "path": "2026-08/blackforest_net/2026-08-02_115153042Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "d8fa7e901293d2d4743c0944092c2b5fcc35ca2ba1f5fa5e7504f83d2464cf01",
+      "compressedBytes": 1519,
+      "uncompressedBytes": 4031,
+      "playerCount": 3,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/blackforest_net/2026-08-02_115153042Z.search.json.gz",
+        "sha256": "447f9460fec9251a73600d74c7606b2e44ea34131ed67b5e41a68806cd5e5117",
+        "compressedBytes": 321,
+        "uncompressedBytes": 602,
+        "playerCount": 3,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "gnarogrim_net:1785671513042",
+      "server": "gnarogrim_net",
+      "timestamp": 1785671513042,
+      "timestampUtc": "2026-08-02T11:51:53.042Z",
+      "path": "2026-08/gnarogrim_net/2026-08-02_115153042Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "7fd5e62201bdcd06e2bb714b96cefd74e08742bef27031c184b3b3ff720138cf",
+      "compressedBytes": 3875,
+      "uncompressedBytes": 11472,
+      "playerCount": 8,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/gnarogrim_net/2026-08-02_115153042Z.search.json.gz",
+        "sha256": "ef85292363048acc349096d71dedac6c77da6c551a7417e3486012ccd82d5d69",
+        "compressedBytes": 446,
+        "uncompressedBytes": 1312,
+        "playerCount": 8,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "maerwynn_net:1785671513042",
+      "server": "maerwynn_net",
+      "timestamp": 1785671513042,
+      "timestampUtc": "2026-08-02T11:51:53.042Z",
+      "path": "2026-08/maerwynn_net/2026-08-02_115153042Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "ae015a9e4e1fb34bd85b4e006eba419c64f3e53aa96fbfcd6765fa93a982b077",
+      "compressedBytes": 904,
+      "uncompressedBytes": 2396,
+      "playerCount": 2,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/maerwynn_net/2026-08-02_115153042Z.search.json.gz",
+        "sha256": "1a5d67d2d3a9430cbbbe16f3bb59e91793d4bd3de1d49da759bf653d13f0d669",
+        "compressedBytes": 262,
+        "uncompressedBytes": 417,
+        "playerCount": 2,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "stumblesteppe_net:1785671513042",
+      "server": "stumblesteppe_net",
+      "timestamp": 1785671513042,
+      "timestampUtc": "2026-08-02T11:51:53.042Z",
+      "path": "2026-08/stumblesteppe_net/2026-08-02_115153042Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "7674b7aac8867a269288f99be23537729ab1ca61fd4647c671d7d6ba22f2587e",
+      "compressedBytes": 5980,
+      "uncompressedBytes": 19870,
+      "playerCount": 14,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/stumblesteppe_net/2026-08-02_115153042Z.search.json.gz",
+        "sha256": "21f9d3ab738d8ea82c0da592b13512b8f877eedbd92a7b045c22d3c17a56b0fb",
+        "compressedBytes": 571,
+        "uncompressedBytes": 2183,
+        "playerCount": 14,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f21_net:1785671607843",
+      "server": "f21_net",
+      "timestamp": 1785671607843,
+      "timestampUtc": "2026-08-02T11:53:27.843Z",
+      "path": "2026-08/f21_net/2026-08-02_115327843Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "23d81404c49f21da062d739170ba9fe9f8152103b507258e02821fdee37d0cdb",
+      "compressedBytes": 211807,
+      "uncompressedBytes": 733475,
+      "playerCount": 499,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f21_net/2026-08-02_115327843Z.search.json.gz",
+        "sha256": "5025a0f799b82b8dcdbffd6a857b86188f921b839b6a07462e2cb92fc5879f8b",
+        "compressedBytes": 8358,
+        "uncompressedBytes": 63523,
+        "playerCount": 499,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f19_net:1785671943970",
+      "server": "f19_net",
+      "timestamp": 1785671943970,
+      "timestampUtc": "2026-08-02T11:59:03.970Z",
+      "path": "2026-08/f19_net/2026-08-02_115903970Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "3e8e7448cdc151b1b87aaa234058ba081bfda174b5f10dd7c6337eabb813b229",
+      "compressedBytes": 213701,
+      "uncompressedBytes": 740183,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f19_net/2026-08-02_115903970Z.search.json.gz",
+        "sha256": "df573dd6d599d9d568606bb5e6aa3b35786d94498c0b477a9780c8cf42cd96c7",
+        "compressedBytes": 8114,
+        "uncompressedBytes": 64453,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f17_net:1785672298329",
+      "server": "f17_net",
+      "timestamp": 1785672298329,
+      "timestampUtc": "2026-08-02T12:04:58.329Z",
+      "path": "2026-08/f17_net/2026-08-02_120458329Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "8388c7cd9aec0b54bc1ea47d682e6b74c57e6e821cedd5c9be8ba72a8e9a4d08",
+      "compressedBytes": 218614,
+      "uncompressedBytes": 756238,
+      "playerCount": 500,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f17_net/2026-08-02_120458329Z.search.json.gz",
+        "sha256": "02d33e21a30b4f224920cc2dd9ef2c4fcf035cd772ceba9252c9280716ad4e35",
+        "compressedBytes": 7907,
+        "uncompressedBytes": 63695,
+        "playerCount": 500,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "am1_net:1785672839328",
+      "server": "am1_net",
+      "timestamp": 1785672839328,
+      "timestampUtc": "2026-08-02T12:13:59.328Z",
+      "path": "2026-08/am1_net/2026-08-02_121359328Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "2ac113666b3b5aeddf10adc29bc6e5b7fc00694d4c944a7128a756227ec2c53b",
+      "compressedBytes": 206562,
+      "uncompressedBytes": 678749,
+      "playerCount": 494,
+      "groupCount": 10,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/am1_net/2026-08-02_121359328Z.search.json.gz",
+        "sha256": "352855d796b2f4f771d0e753631bec6fa203e49332207b3754f9212ebb3224bd",
+        "compressedBytes": 7709,
+        "uncompressedBytes": 60610,
+        "playerCount": 494,
+        "groupCount": 10
+      }
+    },
+    {
+      "id": "f11_net:1785673487879",
+      "server": "f11_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f11_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "bffb832889d0e89382e4251a9f51e907640a6dfe7f4b19763c2b5e9e2cee589f",
+      "compressedBytes": 4642,
+      "uncompressedBytes": 13466,
+      "playerCount": 10,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f11_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "f81f6583de2889078108c9af2e84bf78dbf7e6304e7734b0ae8d3b5145a27866",
+        "compressedBytes": 500,
+        "uncompressedBytes": 1371,
+        "playerCount": 10,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f14_net:1785673487879",
+      "server": "f14_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f14_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "a01da97270cf5fc96ace125c5c31ad1f85ed6d86a03194af2d2080a203bc9ff6",
+      "compressedBytes": 1120,
+      "uncompressedBytes": 3029,
+      "playerCount": 3,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f14_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "6429c4504890bb6830daf1e9880bdead8dd498a574a4cc7dd5ec39954e5f2067",
+        "compressedBytes": 269,
+        "uncompressedBytes": 438,
+        "playerCount": 3,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f17_net:1785673487879",
+      "server": "f17_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f17_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "7def295e633d9f9b9234f193d4bd4b7deaa92df97d47d026f4ffc879a83c4965",
+      "compressedBytes": 7170,
+      "uncompressedBytes": 22251,
+      "playerCount": 16,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f17_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "6dacef05a791bc42cf947c4f28dd7e4f6fc8e9acb2e0782ac3b46eb519bb9ce6",
+        "compressedBytes": 681,
+        "uncompressedBytes": 2185,
+        "playerCount": 16,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f19_net:1785673487879",
+      "server": "f19_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f19_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "4ac89a0cead9dacfbc4599850669d8feab533f5e9cefbdd46b991b38ccfadd46",
+      "compressedBytes": 713,
+      "uncompressedBytes": 1964,
+      "playerCount": 2,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f19_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "aead3156a588b4e448aacac94d352692128addfaa172d81709a74089d915373f",
+        "compressedBytes": 245,
+        "uncompressedBytes": 355,
+        "playerCount": 2,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f8_net:1785673487879",
+      "server": "f8_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f8_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "c0c46c514f5a92fc6e93e8380bdf5b3fe9c2b4638316de324612cac684f9c982",
+      "compressedBytes": 1587,
+      "uncompressedBytes": 5123,
+      "playerCount": 3,
+      "groupCount": 1,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f8_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "acc8fe58793558cad32c5203131054e0f105bbba3fa4ed8d664063eeb22bdb9c",
+        "compressedBytes": 329,
+        "uncompressedBytes": 641,
+        "playerCount": 3,
+        "groupCount": 1
+      }
+    },
+    {
+      "id": "f9_net:1785673487879",
+      "server": "f9_net",
+      "timestamp": 1785673487879,
+      "timestampUtc": "2026-08-02T12:24:47.879Z",
+      "path": "2026-08/f9_net/2026-08-02_122447879Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "c40941f734312f7720237d6cd3930eb27ee9e91e9d03cbf494c3b65b3c0308d2",
+      "compressedBytes": 1704,
+      "uncompressedBytes": 5595,
+      "playerCount": 4,
+      "groupCount": 1,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f9_net/2026-08-02_122447879Z.search.json.gz",
+        "sha256": "fc453ae1bc13f46219f8ae5b3c8b63b49d6432da08df6776e48506b236ef06ec",
+        "compressedBytes": 337,
+        "uncompressedBytes": 675,
+        "playerCount": 4,
+        "groupCount": 1
+      }
+    },
+    {
+      "id": "blackforest_net:1785673758828",
+      "server": "blackforest_net",
+      "timestamp": 1785673758828,
+      "timestampUtc": "2026-08-02T12:29:18.828Z",
+      "path": "2026-08/blackforest_net/2026-08-02_122918828Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "2d83febb94b9ad223f2421dc340f9a54000bc83db80991d078b4d390261eedeb",
+      "compressedBytes": 920,
+      "uncompressedBytes": 2449,
+      "playerCount": 2,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/blackforest_net/2026-08-02_122918828Z.search.json.gz",
+        "sha256": "9084f2e730d49fc1385d4bd6a4fbdf625b93bd7a1c6e46724cf4c4cdedec892c",
+        "compressedBytes": 279,
+        "uncompressedBytes": 442,
+        "playerCount": 2,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "f17_net:1785673758828",
+      "server": "f17_net",
+      "timestamp": 1785673758828,
+      "timestampUtc": "2026-08-02T12:29:18.828Z",
+      "path": "2026-08/f17_net/2026-08-02_122918828Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "cc2612c341faa6ba2d690692017241cb408a4da2a1b78daa98d18c209c240fd7",
+      "compressedBytes": 913,
+      "uncompressedBytes": 2290,
+      "playerCount": 2,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/f17_net/2026-08-02_122918828Z.search.json.gz",
+        "sha256": "c9047048af1c12d4b8ac02f1125f99bfd1cd106415c43aa1af0e8c7d7bc53ec7",
+        "compressedBytes": 274,
+        "uncompressedBytes": 411,
+        "playerCount": 2,
+        "groupCount": 0
+      }
+    },
+    {
+      "id": "gnarogrim_net:1785673758828",
+      "server": "gnarogrim_net",
+      "timestamp": 1785673758828,
+      "timestampUtc": "2026-08-02T12:29:18.828Z",
+      "path": "2026-08/gnarogrim_net/2026-08-02_122918828Z.json.gz",
+      "format": "sftools.raw.v1",
+      "compression": "gzip",
+      "sha256": "f6ef675fe41de1584d0c32e1e691db7a44a66e72ef97396759714e9558201ecb",
+      "compressedBytes": 1046,
+      "uncompressedBytes": 2482,
+      "playerCount": 2,
+      "groupCount": 0,
+      "searchIndex": {
+        "schemaVersion": 1,
+        "path": "2026-08/gnarogrim_net/2026-08-02_122918828Z.search.json.gz",
+        "sha256": "71e0775b0c2d6372711e3cddc09ec9840cbbc7981850be50b7db68f2a568ce0c",
+        "compressedBytes": 281,
+        "uncompressedBytes": 445,
+        "playerCount": 2,
+        "groupCount": 0
+      }
+    }
+  ],
   "toplists": {
     "schemaVersion": 1,
-    "current": {},
-    "monthly": {}
+    "current": {
+      "am1_net": {
+        "scanIds": [
+          "am1_net:1785672839328"
+        ]
+      },
+      "blackforest_net": {
+        "scanIds": [
+          "blackforest_net:1785668916697",
+          "blackforest_net:1785671513042",
+          "blackforest_net:1785673758828"
+        ]
+      },
+      "f11_net": {
+        "scanIds": [
+          "f11_net:1785669605220",
+          "f11_net:1785673487879"
+        ]
+      },
+      "f14_net": {
+        "scanIds": [
+          "f14_net:1785669810129",
+          "f14_net:1785673487879"
+        ]
+      },
+      "f17_net": {
+        "scanIds": [
+          "f17_net:1785672298329",
+          "f17_net:1785673487879",
+          "f17_net:1785673758828"
+        ]
+      },
+      "f19_net": {
+        "scanIds": [
+          "f19_net:1785671943970",
+          "f19_net:1785673487879"
+        ]
+      },
+      "f21_net": {
+        "scanIds": [
+          "f21_net:1785671607843"
+        ]
+      },
+      "f22_net": {
+        "scanIds": [
+          "f22_net:1785671269362"
+        ]
+      },
+      "f23_net": {
+        "scanIds": [
+          "f23_net:1785670738936"
+        ]
+      },
+      "f24_net": {
+        "scanIds": [
+          "f24_net:1785670345462"
+        ]
+      },
+      "f25_net": {
+        "scanIds": [
+          "f25_net:1785669850643"
+        ]
+      },
+      "f26_net": {
+        "scanIds": [
+          "f26_net:1785669420408"
+        ]
+      },
+      "f27_net": {
+        "scanIds": [
+          "f27_net:1785668756895"
+        ]
+      },
+      "f28_net": {
+        "scanIds": [
+          "f28_net:1785668127783"
+        ]
+      },
+      "f8_net": {
+        "scanIds": [
+          "f8_net:1785669187277",
+          "f8_net:1785673487879"
+        ]
+      },
+      "f9_net": {
+        "scanIds": [
+          "f9_net:1785669386370",
+          "f9_net:1785673487879"
+        ]
+      },
+      "gnarogrim_net": {
+        "scanIds": [
+          "gnarogrim_net:1785667782930",
+          "gnarogrim_net:1785671513042",
+          "gnarogrim_net:1785673758828"
+        ]
+      },
+      "maerwynn_net": {
+        "scanIds": [
+          "maerwynn_net:1785667470302",
+          "maerwynn_net:1785671513042"
+        ]
+      },
+      "s10_eu": {
+        "scanIds": [
+          "s10_eu:1785669783798"
+        ]
+      },
+      "s11_eu": {
+        "scanIds": [
+          "s11_eu:1785669572911"
+        ]
+      },
+      "s12_eu": {
+        "scanIds": [
+          "s12_eu:1785669365850"
+        ]
+      },
+      "s13_eu": {
+        "scanIds": [
+          "s13_eu:1785669165376"
+        ]
+      },
+      "s14_eu": {
+        "scanIds": [
+          "s14_eu:1785668968969"
+        ]
+      },
+      "s15_eu": {
+        "scanIds": [
+          "s15_eu:1785668732294"
+        ]
+      },
+      "s16_eu": {
+        "scanIds": [
+          "s16_eu:1785668508499"
+        ]
+      },
+      "s17_eu": {
+        "scanIds": [
+          "s17_eu:1785668266690"
+        ]
+      },
+      "s18_eu": {
+        "scanIds": [
+          "s18_eu:1785668052976"
+        ]
+      },
+      "s19_eu": {
+        "scanIds": [
+          "s19_eu:1785667768913"
+        ]
+      },
+      "s20_eu": {
+        "scanIds": [
+          "s20_eu:1785667515904"
+        ]
+      },
+      "s21_eu": {
+        "scanIds": [
+          "s21_eu:1785667267241"
+        ]
+      },
+      "s22_eu": {
+        "scanIds": [
+          "s22_eu:1785666989498"
+        ]
+      },
+      "s23_eu": {
+        "scanIds": [
+          "s23_eu:1785666771797"
+        ]
+      },
+      "s24_eu": {
+        "scanIds": [
+          "s24_eu:1785666560936"
+        ]
+      },
+      "s25_eu": {
+        "scanIds": [
+          "s25_eu:1785666342462"
+        ]
+      },
+      "s26_eu": {
+        "scanIds": [
+          "s26_eu:1785666144588"
+        ]
+      },
+      "s27_eu": {
+        "scanIds": [
+          "s27_eu:1785665832003"
+        ]
+      },
+      "s28_eu": {
+        "scanIds": [
+          "s28_eu:1785665429016"
+        ]
+      },
+      "s29_eu": {
+        "scanIds": [
+          "s29_eu:1785665619463"
+        ]
+      },
+      "s5_eu": {
+        "scanIds": [
+          "s5_eu:1785670895732"
+        ]
+      },
+      "s6_eu": {
+        "scanIds": [
+          "s6_eu:1785670687511"
+        ]
+      },
+      "s7_eu": {
+        "scanIds": [
+          "s7_eu:1785670477676"
+        ]
+      },
+      "s8_eu": {
+        "scanIds": [
+          "s8_eu:1785670258015"
+        ]
+      },
+      "s9_eu": {
+        "scanIds": [
+          "s9_eu:1785670039541"
+        ]
+      },
+      "stumblesteppe_net": {
+        "scanIds": [
+          "stumblesteppe_net:1785668361525",
+          "stumblesteppe_net:1785671513042"
+        ]
+      }
+    },
+    "monthly": {
+      "2026-08": {
+        "am1_net": {
+          "scanIds": [
+            "am1_net:1785672839328"
+          ]
+        },
+        "blackforest_net": {
+          "scanIds": [
+            "blackforest_net:1785668916697",
+            "blackforest_net:1785671513042",
+            "blackforest_net:1785673758828"
+          ]
+        },
+        "f11_net": {
+          "scanIds": [
+            "f11_net:1785669605220",
+            "f11_net:1785673487879"
+          ]
+        },
+        "f14_net": {
+          "scanIds": [
+            "f14_net:1785669810129",
+            "f14_net:1785673487879"
+          ]
+        },
+        "f17_net": {
+          "scanIds": [
+            "f17_net:1785672298329",
+            "f17_net:1785673487879",
+            "f17_net:1785673758828"
+          ]
+        },
+        "f19_net": {
+          "scanIds": [
+            "f19_net:1785671943970",
+            "f19_net:1785673487879"
+          ]
+        },
+        "f21_net": {
+          "scanIds": [
+            "f21_net:1785671607843"
+          ]
+        },
+        "f22_net": {
+          "scanIds": [
+            "f22_net:1785671269362"
+          ]
+        },
+        "f23_net": {
+          "scanIds": [
+            "f23_net:1785670738936"
+          ]
+        },
+        "f24_net": {
+          "scanIds": [
+            "f24_net:1785670345462"
+          ]
+        },
+        "f25_net": {
+          "scanIds": [
+            "f25_net:1785669850643"
+          ]
+        },
+        "f26_net": {
+          "scanIds": [
+            "f26_net:1785669420408"
+          ]
+        },
+        "f27_net": {
+          "scanIds": [
+            "f27_net:1785668756895"
+          ]
+        },
+        "f28_net": {
+          "scanIds": [
+            "f28_net:1785668127783"
+          ]
+        },
+        "f8_net": {
+          "scanIds": [
+            "f8_net:1785669187277",
+            "f8_net:1785673487879"
+          ]
+        },
+        "f9_net": {
+          "scanIds": [
+            "f9_net:1785669386370",
+            "f9_net:1785673487879"
+          ]
+        },
+        "gnarogrim_net": {
+          "scanIds": [
+            "gnarogrim_net:1785667782930",
+            "gnarogrim_net:1785671513042",
+            "gnarogrim_net:1785673758828"
+          ]
+        },
+        "maerwynn_net": {
+          "scanIds": [
+            "maerwynn_net:1785667470302",
+            "maerwynn_net:1785671513042"
+          ]
+        },
+        "s10_eu": {
+          "scanIds": [
+            "s10_eu:1785669783798"
+          ]
+        },
+        "s11_eu": {
+          "scanIds": [
+            "s11_eu:1785669572911"
+          ]
+        },
+        "s12_eu": {
+          "scanIds": [
+            "s12_eu:1785669365850"
+          ]
+        },
+        "s13_eu": {
+          "scanIds": [
+            "s13_eu:1785669165376"
+          ]
+        },
+        "s14_eu": {
+          "scanIds": [
+            "s14_eu:1785668968969"
+          ]
+        },
+        "s15_eu": {
+          "scanIds": [
+            "s15_eu:1785668732294"
+          ]
+        },
+        "s16_eu": {
+          "scanIds": [
+            "s16_eu:1785668508499"
+          ]
+        },
+        "s17_eu": {
+          "scanIds": [
+            "s17_eu:1785668266690"
+          ]
+        },
+        "s18_eu": {
+          "scanIds": [
+            "s18_eu:1785668052976"
+          ]
+        },
+        "s19_eu": {
+          "scanIds": [
+            "s19_eu:1785667768913"
+          ]
+        },
+        "s20_eu": {
+          "scanIds": [
+            "s20_eu:1785667515904"
+          ]
+        },
+        "s21_eu": {
+          "scanIds": [
+            "s21_eu:1785667267241"
+          ]
+        },
+        "s22_eu": {
+          "scanIds": [
+            "s22_eu:1785666989498"
+          ]
+        },
+        "s23_eu": {
+          "scanIds": [
+            "s23_eu:1785666771797"
+          ]
+        },
+        "s24_eu": {
+          "scanIds": [
+            "s24_eu:1785666560936"
+          ]
+        },
+        "s25_eu": {
+          "scanIds": [
+            "s25_eu:1785666342462"
+          ]
+        },
+        "s26_eu": {
+          "scanIds": [
+            "s26_eu:1785666144588"
+          ]
+        },
+        "s27_eu": {
+          "scanIds": [
+            "s27_eu:1785665832003"
+          ]
+        },
+        "s28_eu": {
+          "scanIds": [
+            "s28_eu:1785665429016"
+          ]
+        },
+        "s29_eu": {
+          "scanIds": [
+            "s29_eu:1785665619463"
+          ]
+        },
+        "s5_eu": {
+          "scanIds": [
+            "s5_eu:1785670895732"
+          ]
+        },
+        "s6_eu": {
+          "scanIds": [
+            "s6_eu:1785670687511"
+          ]
+        },
+        "s7_eu": {
+          "scanIds": [
+            "s7_eu:1785670477676"
+          ]
+        },
+        "s8_eu": {
+          "scanIds": [
+            "s8_eu:1785670258015"
+          ]
+        },
+        "s9_eu": {
+          "scanIds": [
+            "s9_eu:1785670039541"
+          ]
+        },
+        "stumblesteppe_net": {
+          "scanIds": [
+            "stumblesteppe_net:1785668361525",
+            "stumblesteppe_net:1785671513042"
+          ]
+        }
+      }
+    }
   }
 }
