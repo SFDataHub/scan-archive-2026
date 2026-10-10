@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "archiveYear": 2026,
-  "revision": 7,
-  "updatedAt": "2026-10-03T12:15:14.964Z",
+  "revision": 8,
+  "updatedAt": "2026-10-10T05:39:16.851Z",
   "scanCount": 115,
   "serverCount": 45,
   "scans": [
@@ -20,11 +20,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s28_eu/2026-08-02_101029016Z.search.json.gz",
-        "sha256": "215be7fe6a89bed0c58c1490e58aef7b65d7201af4d2f75bd32b25201cb3f0d3",
-        "compressedBytes": 7540,
-        "uncompressedBytes": 58899,
+        "sha256": "6cbf767f7a9ed081896d0a08b112bf25beadfe70eafeac8e178d7c859e74fac9",
+        "compressedBytes": 13982,
+        "uncompressedBytes": 171065,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -43,11 +43,11 @@
       "playerCount": 499,
       "groupCount": 6,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s29_eu/2026-08-02_101339463Z.search.json.gz",
-        "sha256": "9b6c7d9ce1a147e2f43f49692ff52b46844ff3999fb0e2e25724201f75e81d92",
-        "compressedBytes": 8255,
-        "uncompressedBytes": 58716,
+        "sha256": "b7c195778ca4b13def748ef02fa249a7d1f16ef8834fe87fefd1433efa2b0776",
+        "compressedBytes": 14888,
+        "uncompressedBytes": 170327,
         "playerCount": 499,
         "groupCount": 6
       }
@@ -66,11 +66,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s27_eu/2026-08-02_101712003Z.search.json.gz",
-        "sha256": "35ff9d1d180d0f0924d76355887f834e45ae2f143225b4d78b0a854dacade8bf",
-        "compressedBytes": 7207,
-        "uncompressedBytes": 59375,
+        "sha256": "bbc596f8b16221e58eaebc1c94709a465eceb00e7a2adc4be3d7ab35dc8ca364",
+        "compressedBytes": 13293,
+        "uncompressedBytes": 170698,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -89,11 +89,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s26_eu/2026-08-02_102224588Z.search.json.gz",
-        "sha256": "e8b8864a130a95cf2bf4ddbdee6ea325029f8386261f0e942e468294fb76b5a0",
-        "compressedBytes": 7639,
-        "uncompressedBytes": 59344,
+        "sha256": "2efcc78788987ffc44233d592efa46d4db4968eef374f37f0afcd7ea8f815df3",
+        "compressedBytes": 14180,
+        "uncompressedBytes": 171688,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -112,11 +112,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s25_eu/2026-08-02_102542462Z.search.json.gz",
-        "sha256": "66cfd4d3ed95caa847c3f4562f38306da795ec2c75af66ad9f32187f538c10cb",
-        "compressedBytes": 7630,
-        "uncompressedBytes": 59724,
+        "sha256": "fb51ac5589a22a0d42379be1f349e795f963dd7b614c02dd31f7e83ae8cd100b",
+        "compressedBytes": 14113,
+        "uncompressedBytes": 171912,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -135,11 +135,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s24_eu/2026-08-02_102920936Z.search.json.gz",
-        "sha256": "bc4f8e59a44af1431ce5d6c0f9da81a8799e5c80b9941f6b76f2b5ffd075733f",
-        "compressedBytes": 7662,
-        "uncompressedBytes": 59467,
+        "sha256": "9db69bbf7aba68d43671334a3f421edd3c27bc05f63cdf6d03aa31b5a05b6949",
+        "compressedBytes": 14153,
+        "uncompressedBytes": 171989,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -158,11 +158,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s23_eu/2026-08-02_103251797Z.search.json.gz",
-        "sha256": "1c411fb0c08ecc007def9bc0cb72169039455952813e6b82771eea0a346d0fff",
-        "compressedBytes": 7744,
-        "uncompressedBytes": 59542,
+        "sha256": "c6c9b30d3ef2a255bf8675526f10b88c6d7de574b17e30311ccec221e0542b22",
+        "compressedBytes": 14238,
+        "uncompressedBytes": 171488,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -181,11 +181,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s22_eu/2026-08-02_103629498Z.search.json.gz",
-        "sha256": "bea69bb0acd8e7aff37a1925d7f96512f30bc4ec29adf96fd5a0ae5483b4a3ab",
-        "compressedBytes": 7613,
-        "uncompressedBytes": 58677,
+        "sha256": "c9e4a3a37d46b4e16b4d5aacb979bd9677359929fb8d3603f75ba609610114b3",
+        "compressedBytes": 14105,
+        "uncompressedBytes": 170798,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -204,11 +204,11 @@
       "playerCount": 496,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s21_eu/2026-08-02_104107241Z.search.json.gz",
-        "sha256": "411c95c939f8b633d02f38cf11a5f740bafdc2ec448bf18b053476b6a4c164a6",
-        "compressedBytes": 7798,
-        "uncompressedBytes": 59462,
+        "sha256": "68ac54ce8a15bc34139b1069ff00c72a8621bea82e123c0210fbbb3ea26a3037",
+        "compressedBytes": 14223,
+        "uncompressedBytes": 170668,
         "playerCount": 496,
         "groupCount": 10
       }
@@ -227,11 +227,11 @@
       "playerCount": 750,
       "groupCount": 16,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/maerwynn_net/2026-08-02_104430302Z.search.json.gz",
-        "sha256": "23ce2ac0c35b5d7b68c3c40ab5d1e3952fe266dde2921ce7d61862d4cc35a43b",
-        "compressedBytes": 12236,
-        "uncompressedBytes": 104176,
+        "sha256": "a83f7e642b701b4bd0fed49c4cd9c20f2ae524d563d0f69644a4dda51e1d41e8",
+        "compressedBytes": 21417,
+        "uncompressedBytes": 271918,
         "playerCount": 750,
         "groupCount": 16
       }
@@ -250,11 +250,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s20_eu/2026-08-02_104515904Z.search.json.gz",
-        "sha256": "9f042323798f080ee2da925ccb8f786521fa511f1b8dedcc9927a42caa1b69f3",
-        "compressedBytes": 7693,
-        "uncompressedBytes": 59873,
+        "sha256": "30bcab126aab1dc1e57442b195eb16bba7c959b8b31f2bc75c9635c55c6e88d7",
+        "compressedBytes": 14240,
+        "uncompressedBytes": 172205,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -273,11 +273,11 @@
       "playerCount": 481,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s19_eu/2026-08-02_104928913Z.search.json.gz",
-        "sha256": "28f9c5f876b6f9a100093e3f2f3dd2c53240b4931451a1feb5d5bf4254e69be1",
-        "compressedBytes": 7527,
-        "uncompressedBytes": 57719,
+        "sha256": "8a4cd36c10c4950dcee27dc10e6e6853ae311539d6e00ca178d02c8296d9c30d",
+        "compressedBytes": 13734,
+        "uncompressedBytes": 165653,
         "playerCount": 481,
         "groupCount": 10
       }
@@ -296,11 +296,11 @@
       "playerCount": 749,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/gnarogrim_net/2026-08-02_104942930Z.search.json.gz",
-        "sha256": "c625f3a501362715fca4e3aee94d06adddb28cc3f5dbfecd7d148596454b77b3",
-        "compressedBytes": 11847,
-        "uncompressedBytes": 105596,
+        "sha256": "4b8437277e277ba477c4f3b7bada60699ca51c690eabc7275a4ee3af585a2ad9",
+        "compressedBytes": 21008,
+        "uncompressedBytes": 273046,
         "playerCount": 749,
         "groupCount": 15
       }
@@ -319,11 +319,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s18_eu/2026-08-02_105412976Z.search.json.gz",
-        "sha256": "179e176bf70be3a6b9f8b0069871a8b4fbb4302612281cf5d09810fe9326f0b2",
-        "compressedBytes": 7688,
-        "uncompressedBytes": 59535,
+        "sha256": "861d8a050c6ccb023ceb3887119e3a3eb1a8188ea703bc13b2afd28d35456b07",
+        "compressedBytes": 14123,
+        "uncompressedBytes": 171491,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -342,11 +342,11 @@
       "playerCount": 997,
       "groupCount": 20,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f28_net/2026-08-02_105527783Z.search.json.gz",
-        "sha256": "9b0587c5a3da5fd06fb28dc6cef3167543e8ede6532642faeabfc55b3580eaf8",
-        "compressedBytes": 15645,
-        "uncompressedBytes": 123178,
+        "sha256": "c6a679c4e8f6d46b3bd60dbd4aa83dfe3acb653e6e2cc862f6d7a8641cd6529f",
+        "compressedBytes": 28336,
+        "uncompressedBytes": 346238,
         "playerCount": 997,
         "groupCount": 20
       }
@@ -365,11 +365,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s17_eu/2026-08-02_105746690Z.search.json.gz",
-        "sha256": "8613acb989d196eab6bfc08bc6cd3aef57d902909e2f147d6b0a32a3dd1e86ac",
-        "compressedBytes": 7727,
-        "uncompressedBytes": 60355,
+        "sha256": "558a550e8587da835311621827ac8e3b86bc99b48e390ce9d707ac73ff6dba5a",
+        "compressedBytes": 14154,
+        "uncompressedBytes": 172723,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -388,11 +388,11 @@
       "playerCount": 748,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/stumblesteppe_net/2026-08-02_105921525Z.search.json.gz",
-        "sha256": "38df5677caafecbf4cb4a554b333c2ec888af2743edfde733ca49f1e12c07103",
-        "compressedBytes": 11972,
-        "uncompressedBytes": 110339,
+        "sha256": "13af937572069c70f65771b7d7ec95dbfbb9723b9305bd633e3ccbf089a6210d",
+        "compressedBytes": 21434,
+        "uncompressedBytes": 277648,
         "playerCount": 748,
         "groupCount": 15
       }
@@ -411,11 +411,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s16_eu/2026-08-02_110148499Z.search.json.gz",
-        "sha256": "a1fb9abc10619cdfc3ed1a8bb538926985b886a479d7aeea7a1f949e67878aff",
-        "compressedBytes": 7777,
-        "uncompressedBytes": 59454,
+        "sha256": "fda5a8235a72eec0810d6c4d7e2e660eb7bc66d17b0d9d744299dbb58b191c38",
+        "compressedBytes": 14220,
+        "uncompressedBytes": 171754,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -434,11 +434,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s15_eu/2026-08-02_110532294Z.search.json.gz",
-        "sha256": "62127d66bb4cd33e65e84589a6bf9f00f2f9654db0cacce8db9303620e908c63",
-        "compressedBytes": 7696,
-        "uncompressedBytes": 59823,
+        "sha256": "2eba6992babd6582fd76de7ce64c6f6fc5b3fcccf763e6380c5281ae43c182ea",
+        "compressedBytes": 14141,
+        "uncompressedBytes": 171651,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -457,11 +457,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f27_net/2026-08-02_110556895Z.search.json.gz",
-        "sha256": "1e3007ff766e05a01e68d0075aa2712f8b679a0984f4988a436fe224214a506a",
-        "compressedBytes": 8003,
-        "uncompressedBytes": 62951,
+        "sha256": "760267d0958ad62b7204d1581c5c164f2bdbfdadcdde8683ec2a68842c7d98c4",
+        "compressedBytes": 14570,
+        "uncompressedBytes": 174799,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -480,11 +480,11 @@
       "playerCount": 749,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/blackforest_net/2026-08-02_110836697Z.search.json.gz",
-        "sha256": "ce61bbbccc47c65455101f1faaf3e6ac56208f5952063f06e9835aaf3525fb83",
-        "compressedBytes": 12048,
-        "uncompressedBytes": 108198,
+        "sha256": "bb87a9cca35543a5fe71712f12b42b5c1c1af5d335fc013806139a273fe7f309",
+        "compressedBytes": 21165,
+        "uncompressedBytes": 275663,
         "playerCount": 749,
         "groupCount": 15
       }
@@ -503,11 +503,11 @@
       "playerCount": 497,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s14_eu/2026-08-02_110928969Z.search.json.gz",
-        "sha256": "fa7b8a6a2e95b2f21ecb148d0edbfa6fd5cd81d9d89d1306281651c264850fb2",
-        "compressedBytes": 7870,
-        "uncompressedBytes": 60072,
+        "sha256": "35cbb6e5b430aaee29f1a9a12aa58f95620f9f6c7069c4ebea4dc4967a90f37c",
+        "compressedBytes": 14175,
+        "uncompressedBytes": 171428,
         "playerCount": 497,
         "groupCount": 10
       }
@@ -526,11 +526,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s13_eu/2026-08-02_111245376Z.search.json.gz",
-        "sha256": "96f2b5a9eee888b603f8c3a17df0f4c587746bd383f21f8f5708739809b809bb",
-        "compressedBytes": 7897,
-        "uncompressedBytes": 59338,
+        "sha256": "3079e8d73f3a713cde5370e37b2ed5cc5d4ed4b9e671f13e315e49508a1edd47",
+        "compressedBytes": 14393,
+        "uncompressedBytes": 171091,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -549,11 +549,11 @@
       "playerCount": 599,
       "groupCount": 13,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f8_net/2026-08-02_111307277Z.search.json.gz",
-        "sha256": "f0a6a39c84d951637b5c4bcf9e675d38feea93253d25c5a22d0abae5e2e0b893",
-        "compressedBytes": 9513,
-        "uncompressedBytes": 75309,
+        "sha256": "01465eba7484eb45dd23c39d7448e9023b9a86ec313d14522f54b6854786e749",
+        "compressedBytes": 17250,
+        "uncompressedBytes": 209326,
         "playerCount": 599,
         "groupCount": 13
       }
@@ -572,11 +572,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s12_eu/2026-08-02_111605850Z.search.json.gz",
-        "sha256": "5c7989a87468a1b30e2d8527fc12183cb56cf997e49e8bdd1dd35ad378eb504a",
-        "compressedBytes": 7894,
-        "uncompressedBytes": 60077,
+        "sha256": "822b37a5f0c39768678edc999c044d8a9351f5a7c56fdc7135e27c525d1261a9",
+        "compressedBytes": 14300,
+        "uncompressedBytes": 171685,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -595,11 +595,11 @@
       "playerCount": 500,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f9_net/2026-08-02_111626370Z.search.json.gz",
-        "sha256": "2593dfd0bcc1faa542200f77f41412579a8cfc700b47490217303f7849fb1595",
-        "compressedBytes": 7941,
-        "uncompressedBytes": 61948,
+        "sha256": "3b9ab3bf7d42db4d62b4e310624a04e82481173618d8116edf569e4d0588ee42",
+        "compressedBytes": 14368,
+        "uncompressedBytes": 173884,
         "playerCount": 500,
         "groupCount": 11
       }
@@ -618,11 +618,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f26_net/2026-08-02_111700408Z.search.json.gz",
-        "sha256": "c1a5db6ec07de2cf2722a1451a02821b33ad0867b4d381c4b5ee2b221b431925",
-        "compressedBytes": 7882,
-        "uncompressedBytes": 61184,
+        "sha256": "b7d2b1f0bdd5ef5ab96b9bb2ac65dedb27c756df2c8146f65f75340e41d77ee4",
+        "compressedBytes": 14297,
+        "uncompressedBytes": 173241,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -641,11 +641,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s11_eu/2026-08-02_111932911Z.search.json.gz",
-        "sha256": "fd8d9f0282a43aae3d2bf0b937ae9de1ed1e1e4bbdc2f0e0ee0677de372168e5",
-        "compressedBytes": 7922,
-        "uncompressedBytes": 60929,
+        "sha256": "542c11d77aaadf65438d339a9dce7ea76cca7815086c8d54ffc013f09bd54bd0",
+        "compressedBytes": 14374,
+        "uncompressedBytes": 172917,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -664,11 +664,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f11_net/2026-08-02_112005220Z.search.json.gz",
-        "sha256": "3a2142b9c11976fb1dcfba63edd1b53ca0b33e93753d9ffb539a385ae5385780",
-        "compressedBytes": 7944,
-        "uncompressedBytes": 63947,
+        "sha256": "752a0a66fb13e26a8ebce593fe58da97869ac1126166ba481d0ed99a8789fec3",
+        "compressedBytes": 14425,
+        "uncompressedBytes": 175776,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -687,11 +687,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s10_eu/2026-08-02_112303798Z.search.json.gz",
-        "sha256": "86dc2746787fe33e53fb4a26e3b91320138c6f8b117d1f98a38fc26cf40cfbe8",
-        "compressedBytes": 7705,
-        "uncompressedBytes": 59497,
+        "sha256": "0d09392230cdd403d449e29b85eb811cb53bc0f443e0a4a2ea6ec28491c7855e",
+        "compressedBytes": 14144,
+        "uncompressedBytes": 171503,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -710,11 +710,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f14_net/2026-08-02_112330129Z.search.json.gz",
-        "sha256": "5924669d48d1318aeb55258f2f6024741b301768c5727d5635af20b73a4b38bc",
-        "compressedBytes": 8312,
-        "uncompressedBytes": 64434,
+        "sha256": "e10ead3f8a95561708278388b6d6ea751206abb2b79251e192d515047a22d5d2",
+        "compressedBytes": 14618,
+        "uncompressedBytes": 175809,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -733,11 +733,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f25_net/2026-08-02_112410643Z.search.json.gz",
-        "sha256": "b843b8f717eb7ec60c8ff38c214a0dd645cd185ed47828cbc5b2684635b3045b",
-        "compressedBytes": 7853,
-        "uncompressedBytes": 61774,
+        "sha256": "d76504f713beee973a3c0881ea0cf6bef85eb62bf9d592b70f63c260e1adb67f",
+        "compressedBytes": 14290,
+        "uncompressedBytes": 173132,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -756,11 +756,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s9_eu/2026-08-02_112719541Z.search.json.gz",
-        "sha256": "69687d3cdfdf015248a8bc5fd085fc165548fc795ee52f3f767320d41ab1244f",
-        "compressedBytes": 8024,
-        "uncompressedBytes": 59853,
+        "sha256": "4a4b726a16b33434019435c59dfc66060846970f9e604cb761a47c37bef5aec7",
+        "compressedBytes": 14447,
+        "uncompressedBytes": 171856,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -779,11 +779,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s8_eu/2026-08-02_113058015Z.search.json.gz",
-        "sha256": "de48352d0412538e3675887fbe28f86d8c5552f430e3063051af5ae21641837c",
-        "compressedBytes": 7810,
-        "uncompressedBytes": 58887,
+        "sha256": "2ffdbbffb2aa6088bd9f4cf5616fdda9c47cd0b13492e7a73ae14f7c02a58881",
+        "compressedBytes": 14134,
+        "uncompressedBytes": 171302,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -802,11 +802,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f24_net/2026-08-02_113225462Z.search.json.gz",
-        "sha256": "ef75f6c9d6f2b11e3284b989b46a955e80075704283402b62fb4eb7f16ea02b3",
-        "compressedBytes": 7906,
-        "uncompressedBytes": 61383,
+        "sha256": "38308c8e1290318bfa8b0b2d7908d01df7daf97478a27e74921b86496b4c276d",
+        "compressedBytes": 14229,
+        "uncompressedBytes": 173205,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -825,11 +825,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s7_eu/2026-08-02_113437676Z.search.json.gz",
-        "sha256": "d574e1e766497f67f11bcbb0ac84418d8ecd45c47cf53ff2e1c193c16ac34b27",
-        "compressedBytes": 7986,
-        "uncompressedBytes": 58788,
+        "sha256": "d9576825a62af52e02bc3412ce3ccd1c4275b687acbecb39f8fe91c09a13b2df",
+        "compressedBytes": 14386,
+        "uncompressedBytes": 170241,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -848,11 +848,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s6_eu/2026-08-02_113807511Z.search.json.gz",
-        "sha256": "dc67a2e5342b310ff2061acb4c4e5aa77efd21d7a16abc7404f3282f0ee55523",
-        "compressedBytes": 8028,
-        "uncompressedBytes": 60016,
+        "sha256": "c90842e2c6a10d87badfef0ce7f6ffa1ecddeba5ed7c02c7872fdbb49c82c375",
+        "compressedBytes": 14541,
+        "uncompressedBytes": 171892,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -871,11 +871,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f23_net/2026-08-02_113858936Z.search.json.gz",
-        "sha256": "23414da81dc1e7d97f73c0179f890a099a8d18538cbce0edec2a849006a0ab25",
-        "compressedBytes": 8051,
-        "uncompressedBytes": 62476,
+        "sha256": "1b1b9cbf7f54834f814ff145ae90cb4f675a98adba6667309640de3630f94e9c",
+        "compressedBytes": 14422,
+        "uncompressedBytes": 174075,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -894,11 +894,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/s5_eu/2026-08-02_114135732Z.search.json.gz",
-        "sha256": "134d990dc6afcab7b22dabf52190cb6ac578075fdbbd2614f5a4a1c2e1afb973",
-        "compressedBytes": 7899,
-        "uncompressedBytes": 58662,
+        "sha256": "6cac7fc39f6e94ebb92ffca96d1bf57d08f14e27fcd2cbfca1190059538cb6d4",
+        "compressedBytes": 14281,
+        "uncompressedBytes": 169986,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -917,11 +917,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f22_net/2026-08-02_114749362Z.search.json.gz",
-        "sha256": "45499176297f328440a1aa82b3bd716cae125ae283187c5d7899d4ed301a81ab",
-        "compressedBytes": 8199,
-        "uncompressedBytes": 63273,
+        "sha256": "e77a6a15da16c3218c9de2cb741b6aeac41b70e6f851d7ebde74fab90c116ea3",
+        "compressedBytes": 14628,
+        "uncompressedBytes": 175070,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -940,11 +940,11 @@
       "playerCount": 3,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/blackforest_net/2026-08-02_115153042Z.search.json.gz",
-        "sha256": "447f9460fec9251a73600d74c7606b2e44ea34131ed67b5e41a68806cd5e5117",
-        "compressedBytes": 321,
-        "uncompressedBytes": 602,
+        "sha256": "5b5857f90e1f6d1fbdf26a50c1ef3aa69ad76f527842b0903bc448f42765faf5",
+        "compressedBytes": 503,
+        "uncompressedBytes": 1266,
         "playerCount": 3,
         "groupCount": 0
       }
@@ -963,11 +963,11 @@
       "playerCount": 8,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/gnarogrim_net/2026-08-02_115153042Z.search.json.gz",
-        "sha256": "ef85292363048acc349096d71dedac6c77da6c551a7417e3486012ccd82d5d69",
-        "compressedBytes": 446,
-        "uncompressedBytes": 1312,
+        "sha256": "70f875371c8c159ec9e9d7d389b27070bb99fdc7e2cbbc5e7e9bb45cbdaa19a2",
+        "compressedBytes": 736,
+        "uncompressedBytes": 3093,
         "playerCount": 8,
         "groupCount": 0
       }
@@ -986,11 +986,11 @@
       "playerCount": 2,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/maerwynn_net/2026-08-02_115153042Z.search.json.gz",
-        "sha256": "1a5d67d2d3a9430cbbbe16f3bb59e91793d4bd3de1d49da759bf653d13f0d669",
-        "compressedBytes": 262,
-        "uncompressedBytes": 417,
+        "sha256": "9b4fdb20e1b4d43b95c2fdb2121908d5ca7043f59c277e1ea14324c9902ee2f8",
+        "compressedBytes": 414,
+        "uncompressedBytes": 859,
         "playerCount": 2,
         "groupCount": 0
       }
@@ -1009,11 +1009,11 @@
       "playerCount": 14,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/stumblesteppe_net/2026-08-02_115153042Z.search.json.gz",
-        "sha256": "21f9d3ab738d8ea82c0da592b13512b8f877eedbd92a7b045c22d3c17a56b0fb",
-        "compressedBytes": 571,
-        "uncompressedBytes": 2183,
+        "sha256": "7a7a676290dfe017d74ea93ce64317496e4478b9abd2694d85c68a8823a82b93",
+        "compressedBytes": 967,
+        "uncompressedBytes": 5293,
         "playerCount": 14,
         "groupCount": 0
       }
@@ -1032,11 +1032,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f21_net/2026-08-02_115327843Z.search.json.gz",
-        "sha256": "5025a0f799b82b8dcdbffd6a857b86188f921b839b6a07462e2cb92fc5879f8b",
-        "compressedBytes": 8358,
-        "uncompressedBytes": 63523,
+        "sha256": "9c3818c11d2582b0b758ba04cf586050d3fac9b2fe7323c901c8dc290709baf5",
+        "compressedBytes": 14851,
+        "uncompressedBytes": 175129,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1055,11 +1055,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f19_net/2026-08-02_115903970Z.search.json.gz",
-        "sha256": "df573dd6d599d9d568606bb5e6aa3b35786d94498c0b477a9780c8cf42cd96c7",
-        "compressedBytes": 8114,
-        "uncompressedBytes": 64453,
+        "sha256": "d7258776d21d5e6d9be98f4dfd520837e876f2698921037069e6bfc325811327",
+        "compressedBytes": 14330,
+        "uncompressedBytes": 176263,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1078,11 +1078,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f17_net/2026-08-02_120458329Z.search.json.gz",
-        "sha256": "02d33e21a30b4f224920cc2dd9ef2c4fcf035cd772ceba9252c9280716ad4e35",
-        "compressedBytes": 7907,
-        "uncompressedBytes": 63695,
+        "sha256": "a955b107c4b8934199f906446c2b66d9241c914cdd5ddbc46cbd9d366659dd24",
+        "compressedBytes": 14302,
+        "uncompressedBytes": 175545,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1101,11 +1101,11 @@
       "playerCount": 494,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/am1_net/2026-08-02_121359328Z.search.json.gz",
-        "sha256": "352855d796b2f4f771d0e753631bec6fa203e49332207b3754f9212ebb3224bd",
-        "compressedBytes": 7709,
-        "uncompressedBytes": 60610,
+        "sha256": "5120d1de29d71df46d09e9f077ef89dd2ab09da580cf739d1228511a0c998ce6",
+        "compressedBytes": 14267,
+        "uncompressedBytes": 171409,
         "playerCount": 494,
         "groupCount": 10
       }
@@ -1124,11 +1124,11 @@
       "playerCount": 10,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f11_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "f81f6583de2889078108c9af2e84bf78dbf7e6304e7734b0ae8d3b5145a27866",
-        "compressedBytes": 500,
-        "uncompressedBytes": 1371,
+        "sha256": "71d911b217c78daa18b040d9d24cefba789aa10dae1e922acd4c217ed984ece2",
+        "compressedBytes": 809,
+        "uncompressedBytes": 3584,
         "playerCount": 10,
         "groupCount": 0
       }
@@ -1147,11 +1147,11 @@
       "playerCount": 3,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f14_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "6429c4504890bb6830daf1e9880bdead8dd498a574a4cc7dd5ec39954e5f2067",
-        "compressedBytes": 269,
-        "uncompressedBytes": 438,
+        "sha256": "3beb832612a2b1ffc9951b2c4731b2f35f2a129cc542343c87f7c934937221ec",
+        "compressedBytes": 447,
+        "uncompressedBytes": 1105,
         "playerCount": 3,
         "groupCount": 0
       }
@@ -1170,11 +1170,11 @@
       "playerCount": 16,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f17_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "6dacef05a791bc42cf947c4f28dd7e4f6fc8e9acb2e0782ac3b46eb519bb9ce6",
-        "compressedBytes": 681,
-        "uncompressedBytes": 2185,
+        "sha256": "f7cca3d9e5c401355047580dc31e21f890fc18873f99831b7eaf83595f3d83c1",
+        "compressedBytes": 1119,
+        "uncompressedBytes": 5740,
         "playerCount": 16,
         "groupCount": 0
       }
@@ -1193,11 +1193,11 @@
       "playerCount": 2,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f19_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "aead3156a588b4e448aacac94d352692128addfaa172d81709a74089d915373f",
-        "compressedBytes": 245,
-        "uncompressedBytes": 355,
+        "sha256": "7257ceae0a39007da1bb89a1813a78824457a09f27f47f13130db41dba07ea7c",
+        "compressedBytes": 396,
+        "uncompressedBytes": 799,
         "playerCount": 2,
         "groupCount": 0
       }
@@ -1216,11 +1216,11 @@
       "playerCount": 3,
       "groupCount": 1,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f8_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "acc8fe58793558cad32c5203131054e0f105bbba3fa4ed8d664063eeb22bdb9c",
-        "compressedBytes": 329,
-        "uncompressedBytes": 641,
+        "sha256": "e2ccb43aa18c987bcf268bf2e25d24ffde3e9ea8afb7de7b28c2ef1f3f28d545",
+        "compressedBytes": 526,
+        "uncompressedBytes": 1369,
         "playerCount": 3,
         "groupCount": 1
       }
@@ -1239,11 +1239,11 @@
       "playerCount": 4,
       "groupCount": 1,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f9_net/2026-08-02_122447879Z.search.json.gz",
-        "sha256": "fc453ae1bc13f46219f8ae5b3c8b63b49d6432da08df6776e48506b236ef06ec",
-        "compressedBytes": 337,
-        "uncompressedBytes": 675,
+        "sha256": "c95014fc7a6e920fa6677ede70e396edcf0b43d612a467b814bf77be342f5f15",
+        "compressedBytes": 569,
+        "uncompressedBytes": 1647,
         "playerCount": 4,
         "groupCount": 1
       }
@@ -1262,11 +1262,11 @@
       "playerCount": 2,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/blackforest_net/2026-08-02_122918828Z.search.json.gz",
-        "sha256": "9084f2e730d49fc1385d4bd6a4fbdf625b93bd7a1c6e46724cf4c4cdedec892c",
-        "compressedBytes": 279,
-        "uncompressedBytes": 442,
+        "sha256": "db1645ea21642277eeca69db9583e4fc0feecbe59401eeefaa6edccff21e5ea4",
+        "compressedBytes": 437,
+        "uncompressedBytes": 887,
         "playerCount": 2,
         "groupCount": 0
       }
@@ -1285,11 +1285,11 @@
       "playerCount": 2,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/f17_net/2026-08-02_122918828Z.search.json.gz",
-        "sha256": "c9047048af1c12d4b8ac02f1125f99bfd1cd106415c43aa1af0e8c7d7bc53ec7",
-        "compressedBytes": 274,
-        "uncompressedBytes": 411,
+        "sha256": "e0ee81353e40828cc4117e7f0d46c038d51507a4a369154097992e1a42381da2",
+        "compressedBytes": 421,
+        "uncompressedBytes": 857,
         "playerCount": 2,
         "groupCount": 0
       }
@@ -1308,11 +1308,11 @@
       "playerCount": 2,
       "groupCount": 0,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-08/gnarogrim_net/2026-08-02_122918828Z.search.json.gz",
-        "sha256": "71e0775b0c2d6372711e3cddc09ec9840cbbc7981850be50b7db68f2a568ce0c",
-        "compressedBytes": 281,
-        "uncompressedBytes": 445,
+        "sha256": "b8eb3b646eecdc5253da467031466cf1200786b4cd422d5c4c1cd288d902abb4",
+        "compressedBytes": 434,
+        "uncompressedBytes": 889,
         "playerCount": 2,
         "groupCount": 0
       }
@@ -1331,11 +1331,11 @@
       "playerCount": 451,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s30_eu/2026-09-05_074548833Z.search.json.gz",
-        "sha256": "4c49e46d6f8a3ca4eb39fe13eada0fea6a6631b55182b7f5f764020684d2df61",
-        "compressedBytes": 6693,
-        "uncompressedBytes": 53323,
+        "sha256": "4c07cfac886741e2301fcc03e26288d9246122ec4cd77ebd130f7ef39d5eb0f7",
+        "compressedBytes": 12529,
+        "uncompressedBytes": 154559,
         "playerCount": 451,
         "groupCount": 10
       }
@@ -1354,11 +1354,11 @@
       "playerCount": 481,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s29_eu/2026-09-05_074918519Z.search.json.gz",
-        "sha256": "062c5409ab304ac9bb3f224ad022d5c366dc3954d1db7ca4c33ee4e168266248",
-        "compressedBytes": 7464,
-        "uncompressedBytes": 56854,
+        "sha256": "aba16ff6d7de6156057fa824f37ea2e470de0d272fe37d9907590fa2f79669be",
+        "compressedBytes": 13806,
+        "uncompressedBytes": 164780,
         "playerCount": 481,
         "groupCount": 10
       }
@@ -1377,11 +1377,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s28_eu/2026-09-05_075243752Z.search.json.gz",
-        "sha256": "5c92eefc696165de88685a06c1b6674f3ad379ce18c3ca48cb533a391a29a094",
-        "compressedBytes": 7553,
-        "uncompressedBytes": 59022,
+        "sha256": "1b8d619bfd812bd2aac9367eb357046628814e393667e3da4b969d8558aa50de",
+        "compressedBytes": 14000,
+        "uncompressedBytes": 171183,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1400,11 +1400,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s27_eu/2026-09-05_075726333Z.search.json.gz",
-        "sha256": "4984e6c8362be22c3ad17ac4def7106f76f8ce33d2e05cedb1d1718297ccd6f6",
-        "compressedBytes": 7248,
-        "uncompressedBytes": 59516,
+        "sha256": "649f8918fd3612b028e67b93d309fb04a89f2a1770743e4d01543dca407450d1",
+        "compressedBytes": 13388,
+        "uncompressedBytes": 171068,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1423,11 +1423,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s26_eu/2026-09-05_080059607Z.search.json.gz",
-        "sha256": "2b389810509f5ba7a01bd68a88d94deac8de4a235c4fe171fedef6ecceea22bf",
-        "compressedBytes": 7598,
-        "uncompressedBytes": 59458,
+        "sha256": "2a254f9cb4eb158f7fe78a10368d25ee19891b60c16e2eea14469442d41cd62a",
+        "compressedBytes": 14167,
+        "uncompressedBytes": 171363,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1446,11 +1446,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s25_eu/2026-09-05_080414894Z.search.json.gz",
-        "sha256": "6bbcc2a6d2cc1863459786bd6fc166b9b2932e51f36e2e5a93cdf25d2edb2f20",
-        "compressedBytes": 7638,
-        "uncompressedBytes": 59929,
+        "sha256": "0a3f3eecd7f0cd1330a9fe5fa01e81b1f166892ea0e08bb02f52926c0c2d9426",
+        "compressedBytes": 14073,
+        "uncompressedBytes": 171664,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -1469,11 +1469,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s24_eu/2026-09-05_080729566Z.search.json.gz",
-        "sha256": "08fb4fff502361495b5f873f6a57cd6d10123d70cc035224ef453a8f79267ef6",
-        "compressedBytes": 7635,
-        "uncompressedBytes": 58913,
+        "sha256": "c87001c8b0575c91c286e5820958f0ba23ac51351a7d8b8fcd1c6933d5dd1d68",
+        "compressedBytes": 14183,
+        "uncompressedBytes": 171184,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1492,11 +1492,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s23_eu/2026-09-05_081201920Z.search.json.gz",
-        "sha256": "8237e14e1b3f4796756d362016f7f92d1b6c9d98b21d0f14669fb9b61d9e2e09",
-        "compressedBytes": 7761,
-        "uncompressedBytes": 59634,
+        "sha256": "52c332bb194a455c534737ecc1d495470761eff84eb0bec82ad664fd69f43749",
+        "compressedBytes": 14205,
+        "uncompressedBytes": 171809,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1515,11 +1515,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s22_eu/2026-09-05_081523580Z.search.json.gz",
-        "sha256": "1d2878c5c14c7a4dab252cdd06c3984b5a91704514ff7a39d1e192232279966e",
-        "compressedBytes": 7630,
-        "uncompressedBytes": 58692,
+        "sha256": "8f93a6384dbdede62364993c92f31ac47479e0992011acc3776015cd792ecef5",
+        "compressedBytes": 14087,
+        "uncompressedBytes": 170809,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1538,11 +1538,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s21_eu/2026-09-05_081837453Z.search.json.gz",
-        "sha256": "50e95937f058692edda75166fdb0e3a75bcb775bbcdbb568dc6de0fdde45dc5e",
-        "compressedBytes": 7816,
-        "uncompressedBytes": 59839,
+        "sha256": "51fb8d069bad615beaf3b7efe54cafdcb0c757ac687534f15d0478302d1f3b73",
+        "compressedBytes": 14281,
+        "uncompressedBytes": 171716,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1561,11 +1561,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s20_eu/2026-09-05_082207034Z.search.json.gz",
-        "sha256": "d33f7e37c8e779450a55ccc11b2b7cb7bfaa9e5b82c3c82cf567e410ee4e7611",
-        "compressedBytes": 7771,
-        "uncompressedBytes": 59887,
+        "sha256": "0cd65acd291f2057648ab0451eb2711d80f6eae86d6dbf0098bf7f3cca16e0b0",
+        "compressedBytes": 14273,
+        "uncompressedBytes": 172242,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -1584,11 +1584,11 @@
       "playerCount": 480,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s19_eu/2026-09-05_082532933Z.search.json.gz",
-        "sha256": "40f37a3f16ece896301701888bfab1c0774e11cc85b3e6a51720eab39e75060d",
-        "compressedBytes": 7544,
-        "uncompressedBytes": 57642,
+        "sha256": "dc5e546dc89fe13a4f18406042f19124bdd060ffaa45b774ce21efd9ec544e25",
+        "compressedBytes": 13743,
+        "uncompressedBytes": 165335,
         "playerCount": 480,
         "groupCount": 10
       }
@@ -1607,11 +1607,11 @@
       "playerCount": 497,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s18_eu/2026-09-05_083003209Z.search.json.gz",
-        "sha256": "f1672c9758042b748817e2f2e637ee11d122795efb2d1f2c2cb3bbcb10597a46",
-        "compressedBytes": 7632,
-        "uncompressedBytes": 59296,
+        "sha256": "418b7586f63af0ece160b054aeaad2e742e0a3b9a3edfd6f4c8c585c73c938b6",
+        "compressedBytes": 14036,
+        "uncompressedBytes": 170805,
         "playerCount": 497,
         "groupCount": 10
       }
@@ -1630,11 +1630,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s17_eu/2026-09-05_083318376Z.search.json.gz",
-        "sha256": "2d8118d419aee5054cafe212ba31c8b530fe4e0e03360a132593ea2eee541e69",
-        "compressedBytes": 7631,
-        "uncompressedBytes": 60070,
+        "sha256": "b5c22e782ba0741801e56082533b34785dfce5cd866151a1f4f25e6e5837cf29",
+        "compressedBytes": 14039,
+        "uncompressedBytes": 172003,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -1653,11 +1653,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s16_eu/2026-09-05_083650169Z.search.json.gz",
-        "sha256": "28506f2f268ad918f384b5ad327d7de797ecf560f66983fffc325404262985b1",
-        "compressedBytes": 7722,
-        "uncompressedBytes": 59265,
+        "sha256": "f3dd4016ec3bff99754d57e16b858e5d5b072c50fdec41bd974f1965c95d8e00",
+        "compressedBytes": 14113,
+        "uncompressedBytes": 170912,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -1676,11 +1676,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s15_eu/2026-09-05_084010803Z.search.json.gz",
-        "sha256": "f315bfb89ea1220491313f7586c83f3b844d2baaa38121dbc966baf305d0ff67",
-        "compressedBytes": 7745,
-        "uncompressedBytes": 60105,
+        "sha256": "23d3dde1e21e8a7c87c8fa7a135f26445c0c87cb7802d5ee36ff2c7069f323cc",
+        "compressedBytes": 14245,
+        "uncompressedBytes": 172371,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -1699,11 +1699,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s14_eu/2026-09-05_084422517Z.search.json.gz",
-        "sha256": "fef577826031c300972c3f58a5316f2b6279d64319ca2f468e2de37161bc48d0",
-        "compressedBytes": 7889,
-        "uncompressedBytes": 60379,
+        "sha256": "6a7a0cbfc5b5866f9e3d7db6ab314ef9833c6e54d548e509c7b763d35296bd1d",
+        "compressedBytes": 14310,
+        "uncompressedBytes": 172173,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1722,11 +1722,11 @@
       "playerCount": 495,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s13_eu/2026-09-05_084810965Z.search.json.gz",
-        "sha256": "8b9e396e91d784cd27278e6aa4f72cbccf365b19eff05e50499e704dd7492fb9",
-        "compressedBytes": 7886,
-        "uncompressedBytes": 58884,
+        "sha256": "40a84048ce55cd932ee543ed3d89459c9862da1201bc48708283dfc86135e0bb",
+        "compressedBytes": 14300,
+        "uncompressedBytes": 169736,
         "playerCount": 495,
         "groupCount": 10
       }
@@ -1745,11 +1745,11 @@
       "playerCount": 495,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s12_eu/2026-09-05_085154692Z.search.json.gz",
-        "sha256": "6efbb5ca50375130eea1faacec549192c55bac9a5f0697876bb91d4ea99b4fb7",
-        "compressedBytes": 7883,
-        "uncompressedBytes": 59742,
+        "sha256": "bb2597e7ef044138e03e3e85e8822137c42e377c013856074a31681ca3204332",
+        "compressedBytes": 14287,
+        "uncompressedBytes": 170683,
         "playerCount": 495,
         "groupCount": 10
       }
@@ -1768,11 +1768,11 @@
       "playerCount": 492,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/am1_net/2026-09-05_085357385Z.search.json.gz",
-        "sha256": "63de5eff9eeb69af57f728963cef9d4ba0e288183cfdfe2974403232e67ca6f5",
-        "compressedBytes": 7686,
-        "uncompressedBytes": 60311,
+        "sha256": "abb08cce88ec3ff7520bf3ab4d016c31590ab8a85a89b564cab5e7f3f03cacf2",
+        "compressedBytes": 14145,
+        "uncompressedBytes": 170697,
         "playerCount": 492,
         "groupCount": 10
       }
@@ -1791,11 +1791,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s11_eu/2026-09-05_085543596Z.search.json.gz",
-        "sha256": "d3301ef8526d3c203be13e64aae4ac833991dd99430ba90a0457cc013bcdc1a7",
-        "compressedBytes": 7943,
-        "uncompressedBytes": 60479,
+        "sha256": "34eaa739a3cccd307a5a8071194c5c9fc450310e4b71a2d04f06dab4a33d385c",
+        "compressedBytes": 14363,
+        "uncompressedBytes": 172240,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1814,11 +1814,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s10_eu/2026-09-05_085911254Z.search.json.gz",
-        "sha256": "3e99a27275867a775da81a152a50d0502c0f0f337e6f3147fcbfcf1f83168c09",
-        "compressedBytes": 7703,
-        "uncompressedBytes": 59398,
+        "sha256": "2ca3119c83f81d31cd2c208b21ea0f738772ffbf3fe3acf2f21ef6d97e4cd617",
+        "compressedBytes": 14159,
+        "uncompressedBytes": 171188,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1837,11 +1837,11 @@
       "playerCount": 491,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s9_eu/2026-09-05_090216887Z.search.json.gz",
-        "sha256": "cf5badca3ae14644a54115e3332e3fb3d0ed8f0e885f7f273ae91aa416f016c8",
-        "compressedBytes": 7920,
-        "uncompressedBytes": 58421,
+        "sha256": "06ed6de5cdc348093e712bed452ce4bd5088ea011a4bc1f353bd434cf7678b2b",
+        "compressedBytes": 14252,
+        "uncompressedBytes": 168407,
         "playerCount": 491,
         "groupCount": 10
       }
@@ -1860,11 +1860,11 @@
       "playerCount": 499,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s8_eu/2026-09-05_090536467Z.search.json.gz",
-        "sha256": "f99e0743fa39cb73c61ba83cf6bb630c15030862bcdf3b04be15f2c20bb4eb9c",
-        "compressedBytes": 7780,
-        "uncompressedBytes": 58671,
+        "sha256": "81f3b56c712098d1a54cc8bbf1852dc14e4d18b9664fdd2f431edf4b50be0518",
+        "compressedBytes": 14035,
+        "uncompressedBytes": 170641,
         "playerCount": 499,
         "groupCount": 10
       }
@@ -1883,11 +1883,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s7_eu/2026-09-05_090914154Z.search.json.gz",
-        "sha256": "c21a7f078fa2ccf179734cd362f43f095ab993e90beec4d1ec3a34c9b1cd282f",
-        "compressedBytes": 7999,
-        "uncompressedBytes": 58521,
+        "sha256": "bd3ad35b191a47b7c31f288af33b7555419eecc4942087501a4d3e8da9f69818",
+        "compressedBytes": 14433,
+        "uncompressedBytes": 169989,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -1906,11 +1906,11 @@
       "playerCount": 996,
       "groupCount": 20,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f28_net/2026-09-05_091055210Z.search.json.gz",
-        "sha256": "3199507d00e0a9ab4da0d14314c837c5d328b59451f59e3a3abe475116982d75",
-        "compressedBytes": 15614,
-        "uncompressedBytes": 122997,
+        "sha256": "96b1763c2c9c3591234c647fa848a6a4ac724f97504055a9d9e835805a638e08",
+        "compressedBytes": 28226,
+        "uncompressedBytes": 345797,
         "playerCount": 996,
         "groupCount": 20
       }
@@ -1929,11 +1929,11 @@
       "playerCount": 498,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s6_eu/2026-09-05_091230748Z.search.json.gz",
-        "sha256": "93975af20c917f86fcee3443629e5d383b9c49f30ada5f58d7ef6060b5049418",
-        "compressedBytes": 8029,
-        "uncompressedBytes": 59638,
+        "sha256": "40522a29ac5a7c2e005c559f037c4de2677155cca97fd5e0a8a72748731b173e",
+        "compressedBytes": 14556,
+        "uncompressedBytes": 171087,
         "playerCount": 498,
         "groupCount": 10
       }
@@ -1952,11 +1952,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/s5_eu/2026-09-05_091557969Z.search.json.gz",
-        "sha256": "0608cd2f58da61428dbbbd8326f961fc815fc263fec2b070fc49bfebfdef4bb9",
-        "compressedBytes": 7993,
-        "uncompressedBytes": 58928,
+        "sha256": "a19b13f40050134106ea13f0267823b4952a4bf768e28522a7a5605aadc961f6",
+        "compressedBytes": 14399,
+        "uncompressedBytes": 170703,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1975,11 +1975,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f27_net/2026-09-05_091642125Z.search.json.gz",
-        "sha256": "e0846c34027521432d48523f68635aad5ed665fa3532577b57eff283338dd19a",
-        "compressedBytes": 8037,
-        "uncompressedBytes": 62877,
+        "sha256": "6138a1c9c8509bdba7a5ce72f5e7879cc5e518e16a9dd4e133c091d9b1c81cd4",
+        "compressedBytes": 14587,
+        "uncompressedBytes": 174729,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -1998,11 +1998,11 @@
       "playerCount": 1317,
       "groupCount": 116,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/maerwynn_net/2026-09-05_091842274Z.search.json.gz",
-        "sha256": "7183a4a02e133d4453aaac2ce265a9f57592e7bcfb3d0a2234e3ea745d74bf86",
-        "compressedBytes": 24198,
-        "uncompressedBytes": 187694,
+        "sha256": "81b98df7a19ae011317514c5d60dece1f2ada39b2fef781750abbf374d046c33",
+        "compressedBytes": 42579,
+        "uncompressedBytes": 489539,
         "playerCount": 1317,
         "groupCount": 116
       }
@@ -2021,11 +2021,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f26_net/2026-09-05_092344671Z.search.json.gz",
-        "sha256": "e4c39d30d1d602066390767a977a9635ece03b3c356e8e7f707d1bd421fad3b5",
-        "compressedBytes": 7858,
-        "uncompressedBytes": 61060,
+        "sha256": "e1be255f5225ebfbcdb7fe1365d51628c3028689c44b047d38d15fc6969df752",
+        "compressedBytes": 14271,
+        "uncompressedBytes": 172897,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -2044,11 +2044,11 @@
       "playerCount": 1086,
       "groupCount": 113,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f11_net/2026-09-05_092924288Z.search.json.gz",
-        "sha256": "802faf233b9d549d353ef15699ca62175c176ccd2eeab7a1107f390d4ad2ebe5",
-        "compressedBytes": 20081,
-        "uncompressedBytes": 142000,
+        "sha256": "cbd6d3e83d212049e5e89040ca9b544dba2aebb2d20c4068f387a004dfafd9d6",
+        "compressedBytes": 35763,
+        "uncompressedBytes": 392337,
         "playerCount": 1086,
         "groupCount": 113
       }
@@ -2067,11 +2067,11 @@
       "playerCount": 1107,
       "groupCount": 88,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f9_net/2026-09-05_092926512Z.search.json.gz",
-        "sha256": "83618e21be4d0be5b7d6e2916409115d2449e2ddd4b40a0aec0c94f3eabc46d6",
-        "compressedBytes": 19706,
-        "uncompressedBytes": 140262,
+        "sha256": "5ffd95d166707c6037dbca14cbef3e0b4e8858c115a70f4cc86d96a5d1a1f193",
+        "compressedBytes": 35181,
+        "uncompressedBytes": 393270,
         "playerCount": 1107,
         "groupCount": 88
       }
@@ -2090,11 +2090,11 @@
       "playerCount": 1170,
       "groupCount": 112,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f8_net/2026-09-05_093021047Z.search.json.gz",
-        "sha256": "f2c7bfa3f4022f2addf5a654c4bf82c14bf0e42e39154a70f661f82b6ec4c023",
-        "compressedBytes": 21308,
-        "uncompressedBytes": 151270,
+        "sha256": "8005a16cfa3fbf1ae6a06a94a73d6b7865644a5c76f0563808e86881f7ab5a02",
+        "compressedBytes": 38134,
+        "uncompressedBytes": 420192,
         "playerCount": 1170,
         "groupCount": 112
       }
@@ -2113,11 +2113,11 @@
       "playerCount": 1064,
       "groupCount": 78,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f14_net/2026-09-05_093024810Z.search.json.gz",
-        "sha256": "d5ad7655e23ec38c6eefa2068249d555c44a0de97cb25961ff02f6bf8f6c067c",
-        "compressedBytes": 19528,
-        "uncompressedBytes": 137224,
+        "sha256": "34e01e14d3c626411372e1a46e719c60f2c25d12546a1b92d8982354ce17f330",
+        "compressedBytes": 34593,
+        "uncompressedBytes": 379768,
         "playerCount": 1064,
         "groupCount": 78
       }
@@ -2136,11 +2136,11 @@
       "playerCount": 1201,
       "groupCount": 108,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/stumblesteppe_net/2026-09-05_093050311Z.search.json.gz",
-        "sha256": "ccfcc7dfb2fa03fbb32f528926fde46e83e942371ef649f4e5c8be4c7085cb0a",
-        "compressedBytes": 22517,
-        "uncompressedBytes": 181666,
+        "sha256": "e198d0dd2fcd388e0365ed5ba12c2f96feb88271bf9f3a0cb5c877caec872c57",
+        "compressedBytes": 39557,
+        "uncompressedBytes": 457164,
         "playerCount": 1201,
         "groupCount": 108
       }
@@ -2159,11 +2159,11 @@
       "playerCount": 1317,
       "groupCount": 116,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/maerwynn_net/2026-09-05_093127337Z.search.json.gz",
-        "sha256": "00ea6d7dfe5c196a12baccfc7249709595dee29ec8f5797c2ef278ee6837fe6b",
-        "compressedBytes": 24199,
-        "uncompressedBytes": 187686,
+        "sha256": "e839fc401ea5dcf89e86f63c2f4f0fa65d0a9a3211dfa40151eeda721d2a7fff",
+        "compressedBytes": 42564,
+        "uncompressedBytes": 489531,
         "playerCount": 1317,
         "groupCount": 116
       }
@@ -2182,11 +2182,11 @@
       "playerCount": 500,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f25_net/2026-09-05_093137920Z.search.json.gz",
-        "sha256": "a7d70e2e31f42b728ead2542a5f809c0d3197185e3dbed822ba914da9d9b42f8",
-        "compressedBytes": 7862,
-        "uncompressedBytes": 61769,
+        "sha256": "42967dd0413bb681979d1452fa41cb1f83a2b8d8a0ff5b4ea379eaf76e4507d2",
+        "compressedBytes": 14356,
+        "uncompressedBytes": 173574,
         "playerCount": 500,
         "groupCount": 10
       }
@@ -2205,11 +2205,11 @@
       "playerCount": 1045,
       "groupCount": 89,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f19_net/2026-09-05_093930185Z.search.json.gz",
-        "sha256": "50928e2369d9b2b881146d797611172f739b2c1561413f1475d43cf388d2ac14",
-        "compressedBytes": 18942,
-        "uncompressedBytes": 137201,
+        "sha256": "8b1fbcd674039621dac31286c2f70393d86ee58d93980243537f300b7b911af6",
+        "compressedBytes": 33733,
+        "uncompressedBytes": 376452,
         "playerCount": 1045,
         "groupCount": 89
       }
@@ -2228,11 +2228,11 @@
       "playerCount": 1059,
       "groupCount": 89,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f21_net/2026-09-05_093958783Z.search.json.gz",
-        "sha256": "c11a3d760cd2d4cdad2ca8827cbbf5fe7c468f2ce472b4646c88fa52d2cf7fb5",
-        "compressedBytes": 20056,
-        "uncompressedBytes": 137121,
+        "sha256": "aa2e3cc4de0bc91a6402b18c0c716c461280f21fff20f89d239d4915f67b0228",
+        "compressedBytes": 35525,
+        "uncompressedBytes": 379452,
         "playerCount": 1059,
         "groupCount": 89
       }
@@ -2251,11 +2251,11 @@
       "playerCount": 1047,
       "groupCount": 78,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f22_net/2026-09-05_094026242Z.search.json.gz",
-        "sha256": "fdcb19e749577214729c2de7ceb42f2bc12c58488452c14e379c2e148ffede71",
-        "compressedBytes": 19010,
-        "uncompressedBytes": 132658,
+        "sha256": "55833078dc23489158f1776c333f8d8272186b2fa331fe9a071437fa82f3b406",
+        "compressedBytes": 33841,
+        "uncompressedBytes": 371522,
         "playerCount": 1047,
         "groupCount": 78
       }
@@ -2274,11 +2274,11 @@
       "playerCount": 505,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f24_net/2026-09-05_094353079Z.search.json.gz",
-        "sha256": "94ac11b42bfd3393ac089510a3ead44303e9fbfc7f600d8439621650d42a9108",
-        "compressedBytes": 7982,
-        "uncompressedBytes": 62081,
+        "sha256": "458af4e5d69a0282f97a6d438718af71857f499016a1c603a88ba616e52510a5",
+        "compressedBytes": 14457,
+        "uncompressedBytes": 175121,
         "playerCount": 505,
         "groupCount": 11
       }
@@ -2297,11 +2297,11 @@
       "playerCount": 501,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f23_net/2026-09-05_095401393Z.search.json.gz",
-        "sha256": "b8ff3b0d5bf9bedcb3020655370fc09665e0b76c6d8021c7667524e20e1de7ef",
-        "compressedBytes": 8102,
-        "uncompressedBytes": 62735,
+        "sha256": "fd977f2cd9af789d3d2ed85d5bab5fa68bc657d621403085c927e8999473b129",
+        "compressedBytes": 14444,
+        "uncompressedBytes": 174774,
         "playerCount": 501,
         "groupCount": 10
       }
@@ -2320,11 +2320,11 @@
       "playerCount": 1121,
       "groupCount": 105,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/blackforest_net/2026-09-05_095406680Z.search.json.gz",
-        "sha256": "01ff1af2f83aee8785336dd63f1473a8a65d952cb484de060ebaa03e1de3e36d",
-        "compressedBytes": 20930,
-        "uncompressedBytes": 167099,
+        "sha256": "a1b36f2ec73223adcebbf56ba605c7147daf4ef1cf5aefb622cf0248bcfbbd4e",
+        "compressedBytes": 36554,
+        "uncompressedBytes": 424596,
         "playerCount": 1121,
         "groupCount": 105
       }
@@ -2343,11 +2343,11 @@
       "playerCount": 1196,
       "groupCount": 118,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/gnarogrim_net/2026-09-05_095417447Z.search.json.gz",
-        "sha256": "79ec2f9e89c20bf0159036e06ba43386df9382fd55900ede99529c5b9e8b5301",
-        "compressedBytes": 22316,
-        "uncompressedBytes": 174027,
+        "sha256": "9e5e7bc80fa7b9d6ae65c4e4ccf9325b31d5034b1846f896433b66f6ddb908fb",
+        "compressedBytes": 39157,
+        "uncompressedBytes": 449163,
         "playerCount": 1196,
         "groupCount": 118
       }
@@ -2366,11 +2366,11 @@
       "playerCount": 1209,
       "groupCount": 125,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f17_net/2026-09-05_100652978Z.search.json.gz",
-        "sha256": "eb2a184274f56c492c09337dd4bef623438230b90f9acae77dc4bd9413dcce61",
-        "compressedBytes": 23144,
-        "uncompressedBytes": 159192,
+        "sha256": "739ab468d07b9b3c129318a7f4d1221bc591d746c0e6e29963cb806b175bde30",
+        "compressedBytes": 41607,
+        "uncompressedBytes": 437884,
         "playerCount": 1209,
         "groupCount": 125
       }
@@ -2389,11 +2389,11 @@
       "playerCount": 0,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/blackforest_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "54f1fb75d74a170a1c78fb3c3fce087a0a3a2388b9adb7f8ef69af729ff4c77c",
-        "compressedBytes": 478,
-        "uncompressedBytes": 1172,
+        "sha256": "e789d56a9846bdb50b81fa0803c4607fa366f2cde3de4de98605d24682512f64",
+        "compressedBytes": 716,
+        "uncompressedBytes": 2417,
         "playerCount": 0,
         "groupCount": 15
       }
@@ -2412,11 +2412,11 @@
       "playerCount": 0,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f11_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "c90e282eccb8ccab2a51c99dd9e58f9812d89e7942506368b4ead2b88c8984c7",
-        "compressedBytes": 373,
-        "uncompressedBytes": 810,
+        "sha256": "50d7798c498a2fce5b4e01d1894f1d5b3c343e155abe385d90ccdc9ef9f501f1",
+        "compressedBytes": 555,
+        "uncompressedBytes": 1723,
         "playerCount": 0,
         "groupCount": 11
       }
@@ -2435,11 +2435,11 @@
       "playerCount": 0,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f14_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "e94cbb9189aa7f847a00dd318bb6b5a5d4a2012cb428d1ebed4d7b8adfe15535",
-        "compressedBytes": 368,
-        "uncompressedBytes": 772,
+        "sha256": "ece143cd2725669e31369393838c4b70d9ea4e902829820d822e02f9a2911753",
+        "compressedBytes": 548,
+        "uncompressedBytes": 1602,
         "playerCount": 0,
         "groupCount": 10
       }
@@ -2458,11 +2458,11 @@
       "playerCount": 0,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f17_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "4519853548a40e70d00843a3dc2ce17ea1b76ab5eb018a9bd90f7d3e79e06fe1",
-        "compressedBytes": 460,
-        "uncompressedBytes": 1044,
+        "sha256": "8ddae07c9da514e5cd4432c150d47c7673f904dd51defe8ebe43bc739f7cd410",
+        "compressedBytes": 700,
+        "uncompressedBytes": 2289,
         "playerCount": 0,
         "groupCount": 15
       }
@@ -2481,11 +2481,11 @@
       "playerCount": 0,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f19_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "bb0a47a4776da40a6e5cfbe802f9ea74f76686892ab77b6e74eeac56cb42b5c4",
-        "compressedBytes": 420,
-        "uncompressedBytes": 794,
+        "sha256": "754bcb346536087656282fd918992b66016698d94df63ac4a7aac71439cb9d69",
+        "compressedBytes": 597,
+        "uncompressedBytes": 1624,
         "playerCount": 0,
         "groupCount": 10
       }
@@ -2504,11 +2504,11 @@
       "playerCount": 0,
       "groupCount": 10,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f21_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "5503acd7dfe9da7a216c2f71468acbdc4383bfbfcd1fa6245749f854e1c3528b",
-        "compressedBytes": 386,
-        "uncompressedBytes": 755,
+        "sha256": "233a13b7ca1bfb57d4ce3de2ceb889a3351f8fc710c524f34e0e3d5ac4d265e8",
+        "compressedBytes": 559,
+        "uncompressedBytes": 1565,
         "playerCount": 0,
         "groupCount": 10
       }
@@ -2527,11 +2527,11 @@
       "playerCount": 0,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f22_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "54f32e8c421ca08bc59be9ebd2666dc93d8b0ef4e3bb80b3d33137f920bb8a86",
-        "compressedBytes": 392,
-        "uncompressedBytes": 804,
+        "sha256": "24bbc32703236bfc1003fc0a13656d4a2da174e2fdc8d1da867487ecebb123f6",
+        "compressedBytes": 580,
+        "uncompressedBytes": 1717,
         "playerCount": 0,
         "groupCount": 11
       }
@@ -2550,11 +2550,11 @@
       "playerCount": 0,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f8_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "250deb759e1141e3ebd6857d8367e1dc40af3573ba941a1ecacff77ac3a88a59",
-        "compressedBytes": 389,
-        "uncompressedBytes": 800,
+        "sha256": "b4e7eaa3a6057bd45f27149aa8fa02fe634a4bda259363afe270bed1a8b08e1c",
+        "compressedBytes": 566,
+        "uncompressedBytes": 1692,
         "playerCount": 0,
         "groupCount": 11
       }
@@ -2573,11 +2573,11 @@
       "playerCount": 0,
       "groupCount": 11,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/f9_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "e428933d8ea6578cd46c9caa8b63f1981dd75a45b21340b02008bf082edd2de4",
-        "compressedBytes": 374,
-        "uncompressedBytes": 779,
+        "sha256": "48b0a02c75855c8ff4ec9e9bf7b7b81f965a58a892bb134bba6d7a29551558a2",
+        "compressedBytes": 561,
+        "uncompressedBytes": 1692,
         "playerCount": 0,
         "groupCount": 11
       }
@@ -2596,11 +2596,11 @@
       "playerCount": 0,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/gnarogrim_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "286b5417eb46dba188cc957e0557dee38e91cc1aec306d077f2504f185cb83c0",
-        "compressedBytes": 477,
-        "uncompressedBytes": 1145,
+        "sha256": "b5a861ba29c85076475aa011b01ded45323919c289f8cf61caa163a282458207",
+        "compressedBytes": 712,
+        "uncompressedBytes": 2370,
         "playerCount": 0,
         "groupCount": 15
       }
@@ -2619,11 +2619,11 @@
       "playerCount": 0,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/maerwynn_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "73801d9900110ad6ea93ac75939338a7081f5cd5f0dbab29b6179a625eaea6a8",
-        "compressedBytes": 473,
-        "uncompressedBytes": 1147,
+        "sha256": "68bd04301aa5180e6785c9fcec6752525121d1bc10f39a59200b14e8afbe2492",
+        "compressedBytes": 713,
+        "uncompressedBytes": 2392,
         "playerCount": 0,
         "groupCount": 15
       }
@@ -2642,11 +2642,11 @@
       "playerCount": 0,
       "groupCount": 15,
       "searchIndex": {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "path": "2026-09/stumblesteppe_net/2026-09-05_101113670Z.search.json.gz",
-        "sha256": "2085fa2f07a57aa6c3d01a837496062df64f7af8d1e3f6c36f3365ce05e1364a",
-        "compressedBytes": 461,
-        "uncompressedBytes": 1199,
+        "sha256": "dee641257006d03a8edfff43cf292f2b1a95f47e3f97a64a0167b034d2441953",
+        "compressedBytes": 704,
+        "uncompressedBytes": 2444,
         "playerCount": 0,
         "groupCount": 15
       }
