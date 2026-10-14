@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "archiveYear": 2026,
-  "revision": 8,
-  "updatedAt": "2026-10-10T05:39:16.851Z",
+  "revision": 10,
+  "updatedAt": "2026-10-14T08:05:57.465Z",
   "scanCount": 115,
   "serverCount": 45,
   "scans": [
@@ -3369,6 +3369,902 @@
             "stumblesteppe_net:1788603073670"
           ]
         }
+      }
+    }
+  },
+  "rankings": {
+    "2026-09": {
+      "am1_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/am1_net/monthly.ranking.json.gz",
+        "sha256": "cba6b3791922a873e087e1ca4e92ede2f6288b8d5713279b83ff1c9876fd8713",
+        "compressedBytes": 86358,
+        "uncompressedBytes": 916309,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 492,
+        "guildCount": 10
+      },
+      "blackforest_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/blackforest_net/monthly.ranking.json.gz",
+        "sha256": "c8532675543d8cbd01d7c9309b8b91321248da7ff1141894e2a9603f8b93fe1c",
+        "compressedBytes": 214805,
+        "uncompressedBytes": 2215512,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1121,
+        "guildCount": 105
+      },
+      "f11_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f11_net/monthly.ranking.json.gz",
+        "sha256": "24f77ad75e99c080c740c831c2cc301aa322211ba4ee8850c433728cfc7fed81",
+        "compressedBytes": 209343,
+        "uncompressedBytes": 2083966,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1086,
+        "guildCount": 113
+      },
+      "f14_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f14_net/monthly.ranking.json.gz",
+        "sha256": "7a31814d03c1f613a278189e2521c984fb7221555089844e45a1c923623e28ef",
+        "compressedBytes": 206610,
+        "uncompressedBytes": 2020068,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1064,
+        "guildCount": 78
+      },
+      "f17_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f17_net/monthly.ranking.json.gz",
+        "sha256": "861655e45ac4d0af87315b6823e43ada57746ca28c1b3202622ebfe4f85daae0",
+        "compressedBytes": 230618,
+        "uncompressedBytes": 2317240,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1209,
+        "guildCount": 125
+      },
+      "f19_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f19_net/monthly.ranking.json.gz",
+        "sha256": "45d6227443301052bd2ec5026afcf8635f40b200ccbbc7fb81d364cc2467cf00",
+        "compressedBytes": 201514,
+        "uncompressedBytes": 1992747,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1045,
+        "guildCount": 89
+      },
+      "f21_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f21_net/monthly.ranking.json.gz",
+        "sha256": "1d302ddedd2eaa94e36afab8a33af958773c894f6b602bdf767995731dd6320f",
+        "compressedBytes": 203196,
+        "uncompressedBytes": 2014140,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1059,
+        "guildCount": 89
+      },
+      "f22_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f22_net/monthly.ranking.json.gz",
+        "sha256": "dee117b9b023553d47c7eaa331e586f1154e3b56a5bb8e5b82ab08283be057a6",
+        "compressedBytes": 201695,
+        "uncompressedBytes": 1982103,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1047,
+        "guildCount": 78
+      },
+      "f23_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f23_net/monthly.ranking.json.gz",
+        "sha256": "c589d68eef40171331439431fcf3de23abfe05cc38902c72c908362c2681a3e7",
+        "compressedBytes": 92142,
+        "uncompressedBytes": 940559,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "f24_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f24_net/monthly.ranking.json.gz",
+        "sha256": "aef8f92c84147b8217f60f40c559685127d0fdcecdac5bd5691de5259cebd79f",
+        "compressedBytes": 93140,
+        "uncompressedBytes": 947454,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 505,
+        "guildCount": 11
+      },
+      "f25_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f25_net/monthly.ranking.json.gz",
+        "sha256": "3461b4c8076cb5f9c8d115bb581e3493436f49245da76075a93f072d22f71c55",
+        "compressedBytes": 92419,
+        "uncompressedBytes": 939476,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f26_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f26_net/monthly.ranking.json.gz",
+        "sha256": "5c98fa7dab9cf89be21d93956b3e1849dff9985f53cd4060ea159dec724c2db0",
+        "compressedBytes": 93050,
+        "uncompressedBytes": 938098,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f27_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f27_net/monthly.ranking.json.gz",
+        "sha256": "e35a8f71b1a80e5875eaabe824bfc79d91a1d32f7c291317cf92aaa6cd9a88a5",
+        "compressedBytes": 92714,
+        "uncompressedBytes": 939549,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f28_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f28_net/monthly.ranking.json.gz",
+        "sha256": "ba8d3eb6a97be2ca5c2040f9af1e1f46d5023cd446316294c6afebb1d2a50e70",
+        "compressedBytes": 184444,
+        "uncompressedBytes": 1862751,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 996,
+        "guildCount": 20
+      },
+      "f8_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f8_net/monthly.ranking.json.gz",
+        "sha256": "d38c5fc5f30a1c24fc78b4dc802f8f95491f3cc1cad7b2d23c440b0a1183f9ea",
+        "compressedBytes": 224548,
+        "uncompressedBytes": 2229052,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1170,
+        "guildCount": 112
+      },
+      "f9_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/f9_net/monthly.ranking.json.gz",
+        "sha256": "972322c36fd93ebfc59745fdbac36af49b89c0e38080a5685166537eb4b545d6",
+        "compressedBytes": 212215,
+        "uncompressedBytes": 2096936,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1107,
+        "guildCount": 88
+      },
+      "gnarogrim_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/gnarogrim_net/monthly.ranking.json.gz",
+        "sha256": "8cccb333ec6e7ccf49a59daa2a5a4f08d5eb1d8d52b51149378841b4951a1916",
+        "compressedBytes": 228916,
+        "uncompressedBytes": 2350388,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1196,
+        "guildCount": 118
+      },
+      "maerwynn_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/maerwynn_net/monthly.ranking.json.gz",
+        "sha256": "f0337b79394a2a098f873cb686bf76e2d58fd15115f6ef82a36a7890f3c21df0",
+        "compressedBytes": 264361,
+        "uncompressedBytes": 2991574,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1318,
+        "guildCount": 116
+      },
+      "s10_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s10_eu/monthly.ranking.json.gz",
+        "sha256": "768b6ad207fa62f7fc41ed55eeb5cbadb7bc8dc7f6077ca387762a023daf2f5b",
+        "compressedBytes": 91446,
+        "uncompressedBytes": 932116,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s11_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s11_eu/monthly.ranking.json.gz",
+        "sha256": "6d720c877a30c823b1545ef6f2e128f20908a70382b6b6d865b735695f9009ef",
+        "compressedBytes": 91994,
+        "uncompressedBytes": 931584,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s12_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s12_eu/monthly.ranking.json.gz",
+        "sha256": "fdcfaf24cf5a12b6f5fd431ba178b6d5766aee33bd6589d3b89435f916dc911b",
+        "compressedBytes": 91065,
+        "uncompressedBytes": 923986,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 495,
+        "guildCount": 10
+      },
+      "s13_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s13_eu/monthly.ranking.json.gz",
+        "sha256": "58d02d7600318104461c994e948010a8626f578e87d6e2374002d6ad029c5847",
+        "compressedBytes": 91304,
+        "uncompressedBytes": 923630,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 495,
+        "guildCount": 10
+      },
+      "s14_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s14_eu/monthly.ranking.json.gz",
+        "sha256": "be3df39a9fd0945e905b3006eca1fdda447b477367c801a22d895c5c63ac8924",
+        "compressedBytes": 91173,
+        "uncompressedBytes": 930074,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s15_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s15_eu/monthly.ranking.json.gz",
+        "sha256": "e0e0852c5b03866263d29bc4fd098de20c780497a5c23168a0b856c79400f30e",
+        "compressedBytes": 91721,
+        "uncompressedBytes": 934282,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s16_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s16_eu/monthly.ranking.json.gz",
+        "sha256": "560683c5e650a286cdd1babb361a10dd586df07bfec814dbd8b8f07110f81910",
+        "compressedBytes": 91354,
+        "uncompressedBytes": 928632,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s17_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s17_eu/monthly.ranking.json.gz",
+        "sha256": "b71a627fc173bd9c37a7559b65c9731f0cc94bbfcd0bd799d135936e0f65c9f3",
+        "compressedBytes": 90834,
+        "uncompressedBytes": 929296,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s18_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s18_eu/monthly.ranking.json.gz",
+        "sha256": "e5a21556067b90c1acce92987360c24853d7ed5aa9a58e4354e176b7559706f0",
+        "compressedBytes": 90298,
+        "uncompressedBytes": 926428,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 497,
+        "guildCount": 10
+      },
+      "s19_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s19_eu/monthly.ranking.json.gz",
+        "sha256": "1c7f39e93a76d5888bb40d287fae776ac01d69253e81001b840ffa68801d6451",
+        "compressedBytes": 87226,
+        "uncompressedBytes": 895054,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 480,
+        "guildCount": 10
+      },
+      "s20_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s20_eu/monthly.ranking.json.gz",
+        "sha256": "b3f4f38428ff9b6c4c038949acc2cc465f40ba425154bcc4202213190e8b7b8a",
+        "compressedBytes": 89991,
+        "uncompressedBytes": 932853,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s21_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s21_eu/monthly.ranking.json.gz",
+        "sha256": "edc95de08c6b225c2644a5e0129fc74c751f0826c38d0efd18948a3ac7ba9ffd",
+        "compressedBytes": 89897,
+        "uncompressedBytes": 928859,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s22_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s22_eu/monthly.ranking.json.gz",
+        "sha256": "f46f4179804df7532c0520f79a270ce142d080a8447bb5abe3200a201409de30",
+        "compressedBytes": 90050,
+        "uncompressedBytes": 930505,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s23_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s23_eu/monthly.ranking.json.gz",
+        "sha256": "f6df601facda587353c20810b55ea00f1901c015d4e2a96a073261be0175605d",
+        "compressedBytes": 89497,
+        "uncompressedBytes": 930502,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s24_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s24_eu/monthly.ranking.json.gz",
+        "sha256": "baf28c50e4a215fdea1d1cef9e82199220e2f5ea8550a7eef1a47f2816075e1b",
+        "compressedBytes": 89020,
+        "uncompressedBytes": 929419,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s25_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s25_eu/monthly.ranking.json.gz",
+        "sha256": "5dff8813f4e8d3f1b8ecbcc02d3aafb990bd2a3499a7e07c286c6c26352fb252",
+        "compressedBytes": 88240,
+        "uncompressedBytes": 925584,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s26_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s26_eu/monthly.ranking.json.gz",
+        "sha256": "1e0a9c8a5cebb707254335a8da74181bedaccc00d85079d2e98e634a3335dde6",
+        "compressedBytes": 87890,
+        "uncompressedBytes": 926344,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s27_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s27_eu/monthly.ranking.json.gz",
+        "sha256": "be1869c7e1ca544b44f76187da00ebe8e7680c88cb1e4b1724b1e391fa6b932c",
+        "compressedBytes": 87249,
+        "uncompressedBytes": 929019,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s28_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s28_eu/monthly.ranking.json.gz",
+        "sha256": "aae76b8814237b3084c01a8d93af03df740ce7e12283bc8a75638abc00bd2fa0",
+        "compressedBytes": 86529,
+        "uncompressedBytes": 927438,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s29_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s29_eu/monthly.ranking.json.gz",
+        "sha256": "48a3b4c94b87adbf04f5ba52bd3c6d61093ae5d7b3ee0795b8a1e6285749061f",
+        "compressedBytes": 82307,
+        "uncompressedBytes": 891805,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 481,
+        "guildCount": 10
+      },
+      "s30_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s30_eu/monthly.ranking.json.gz",
+        "sha256": "13d35033779718f1eec95d6c54fbbe3b9c741ea55c40b8fcbcd91e0530d1c73c",
+        "compressedBytes": 75722,
+        "uncompressedBytes": 835920,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 451,
+        "guildCount": 10
+      },
+      "s5_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s5_eu/monthly.ranking.json.gz",
+        "sha256": "be3b79a4a657af069d4e4df739b75da35587ec39888ac0418d50a3294695379d",
+        "compressedBytes": 92537,
+        "uncompressedBytes": 930212,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s6_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s6_eu/monthly.ranking.json.gz",
+        "sha256": "6abffe4e5327fcf3fae7b3089de4ca0aa4cb23512020fa018f2b3fa93b72699a",
+        "compressedBytes": 91852,
+        "uncompressedBytes": 926215,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s7_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s7_eu/monthly.ranking.json.gz",
+        "sha256": "29b246a08eed91aa16d6dac1bb638d54cbdaae52cd42e952fbf415ac473ebed5",
+        "compressedBytes": 92281,
+        "uncompressedBytes": 926537,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s8_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s8_eu/monthly.ranking.json.gz",
+        "sha256": "c5b6be2c0ecb42f039a587897e9c3a08af40a0fd475a31fc97217053415ab4c0",
+        "compressedBytes": 91981,
+        "uncompressedBytes": 928925,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s9_eu": {
+        "schemaVersion": 1,
+        "path": "2026-09/s9_eu/monthly.ranking.json.gz",
+        "sha256": "9eb639779d5f9668b138e2f8bf931dd8bfde9934e93b4721ef9a5f93aaf71cac",
+        "compressedBytes": 90973,
+        "uncompressedBytes": 913702,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 491,
+        "guildCount": 10
+      },
+      "stumblesteppe_net": {
+        "schemaVersion": 1,
+        "path": "2026-09/stumblesteppe_net/monthly.ranking.json.gz",
+        "sha256": "b155185db1ab2ab255e80d8cb31c3ccc7b08c4e59de3759d841108a07b183488",
+        "compressedBytes": 231042,
+        "uncompressedBytes": 2383558,
+        "cohortId": "48632740bd823bddb08004d2760574d434ceadf167632a5e1b0067a87e64847b",
+        "playerCount": 1201,
+        "guildCount": 108
+      }
+    },
+    "2026-08": {
+      "am1_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/am1_net/monthly.ranking.json.gz",
+        "sha256": "164db6c97448112b520cb9b38cb688b289a31fda16af19fe3bda287b1ff50d96",
+        "compressedBytes": 86863,
+        "uncompressedBytes": 919805,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 494,
+        "guildCount": 10
+      },
+      "blackforest_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/blackforest_net/monthly.ranking.json.gz",
+        "sha256": "ca107526572a0793826cc11acff20ddb89d25a00806242f9872c6169efc82745",
+        "compressedBytes": 141335,
+        "uncompressedBytes": 1460377,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 752,
+        "guildCount": 15
+      },
+      "f11_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f11_net/monthly.ranking.json.gz",
+        "sha256": "4e862709b6f1ee628beb705111bda025ef596d9177a5cbab92eaec59606ae25b",
+        "compressedBytes": 95014,
+        "uncompressedBytes": 956994,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 509,
+        "guildCount": 10
+      },
+      "f14_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f14_net/monthly.ranking.json.gz",
+        "sha256": "7e6a2c39a5fd0c0c69d3c83705a6034267e4c529c0ae6e1573c4093fa69813cf",
+        "compressedBytes": 94373,
+        "uncompressedBytes": 942137,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f17_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f17_net/monthly.ranking.json.gz",
+        "sha256": "026c15447001dcb69ce722d7a13506975a0dacfbcaf460261a48f53c1e838f7d",
+        "compressedBytes": 95027,
+        "uncompressedBytes": 968656,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 516,
+        "guildCount": 10
+      },
+      "f19_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f19_net/monthly.ranking.json.gz",
+        "sha256": "29545c8d8e9421967bc59aba1e1e771a6ef6c341a6dbb95ff756126026c68985",
+        "compressedBytes": 94442,
+        "uncompressedBytes": 945624,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 502,
+        "guildCount": 10
+      },
+      "f21_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f21_net/monthly.ranking.json.gz",
+        "sha256": "1688970eb5fe793858255da5ef4cf49a3498e9d509c4ac30134c54ecdddd96aa",
+        "compressedBytes": 92755,
+        "uncompressedBytes": 937402,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "f22_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f22_net/monthly.ranking.json.gz",
+        "sha256": "deba75744d0aa702a905095ae802ea48efa42bcae6fad9b636b379f97f024dc3",
+        "compressedBytes": 92655,
+        "uncompressedBytes": 937996,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f23_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f23_net/monthly.ranking.json.gz",
+        "sha256": "d4d9f40d3138aa28d4e6e68c5355fc48273478c935e37c36a2ba2bd47ef97a16",
+        "compressedBytes": 91158,
+        "uncompressedBytes": 935582,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "f24_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f24_net/monthly.ranking.json.gz",
+        "sha256": "49a9ac6e43667f77961897b9b2022ad11827cbc5df82387795dd12ceb78337c6",
+        "compressedBytes": 91963,
+        "uncompressedBytes": 936249,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f25_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f25_net/monthly.ranking.json.gz",
+        "sha256": "6253e9c8f0eb26ed96a478dce59715bc33b71ba4465086db8590b56fd76ed91f",
+        "compressedBytes": 91585,
+        "uncompressedBytes": 933977,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "f26_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f26_net/monthly.ranking.json.gz",
+        "sha256": "e21639e351ee6e70afc905a5e1d5fb5b773cfbb1f0c81c59314ab23a01c1f751",
+        "compressedBytes": 92559,
+        "uncompressedBytes": 938140,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "f27_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f27_net/monthly.ranking.json.gz",
+        "sha256": "3496097470ff4d98ebb921671551f836357cee6fa5100a1e48dc6cb18eb68d46",
+        "compressedBytes": 92068,
+        "uncompressedBytes": 937441,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "f28_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f28_net/monthly.ranking.json.gz",
+        "sha256": "b7e472579d27834eb3deb5ab2f342980c4f7f175e3040149b084c7667bfb1317",
+        "compressedBytes": 183360,
+        "uncompressedBytes": 1860753,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 997,
+        "guildCount": 20
+      },
+      "f8_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f8_net/monthly.ranking.json.gz",
+        "sha256": "f00dd71c081b826041f52364c2113cd780eaebb676bfa0450b900f6f4a1d3de8",
+        "compressedBytes": 111788,
+        "uncompressedBytes": 1125573,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 601,
+        "guildCount": 13
+      },
+      "f9_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/f9_net/monthly.ranking.json.gz",
+        "sha256": "8472ab695d346f75f8d72238440b49fc1c27cd8b4a1876ef03b9f6475de6f702",
+        "compressedBytes": 93694,
+        "uncompressedBytes": 943245,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 503,
+        "guildCount": 11
+      },
+      "gnarogrim_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/gnarogrim_net/monthly.ranking.json.gz",
+        "sha256": "2f15c444714c8c79c5b6ad5004ee7bb66f0e32a018275652b553423191c923f0",
+        "compressedBytes": 141598,
+        "uncompressedBytes": 1458296,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 757,
+        "guildCount": 15
+      },
+      "maerwynn_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/maerwynn_net/monthly.ranking.json.gz",
+        "sha256": "3ccdd7d0198852434fdf957b29741d31bc5fbe3e1cb9aaa388162be827890806",
+        "compressedBytes": 139782,
+        "uncompressedBytes": 1442394,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 752,
+        "guildCount": 16
+      },
+      "s10_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s10_eu/monthly.ranking.json.gz",
+        "sha256": "52780fd69e3b56859e703a772bf2b21ed914e92da568b59439fb6e2d3c3b7e6f",
+        "compressedBytes": 91133,
+        "uncompressedBytes": 931919,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s11_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s11_eu/monthly.ranking.json.gz",
+        "sha256": "d0ded2b45a01b216f965c917050d38ac1d1fe4d44ddc9bca0ec0e3b3b4f4edf1",
+        "compressedBytes": 91794,
+        "uncompressedBytes": 932507,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s12_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s12_eu/monthly.ranking.json.gz",
+        "sha256": "298f009d349dde13acbdb5f2d144de162fd13a829382009af7c7e3f0acc5b215",
+        "compressedBytes": 91444,
+        "uncompressedBytes": 928950,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s13_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s13_eu/monthly.ranking.json.gz",
+        "sha256": "991ff42d5559d8e5b101e99c5eac44311e523497456db277659b02ff3024350a",
+        "compressedBytes": 91577,
+        "uncompressedBytes": 930313,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s14_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s14_eu/monthly.ranking.json.gz",
+        "sha256": "4f4b0bce77f3728b89ffe9f930e5c2175509eeaa1a7473bba6a7a6737376a41a",
+        "compressedBytes": 91105,
+        "uncompressedBytes": 926099,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 497,
+        "guildCount": 10
+      },
+      "s15_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s15_eu/monthly.ranking.json.gz",
+        "sha256": "b3933f540e09d37978051782ad3a034b9ef8fb4e0091f007a5be30cfc3d8225f",
+        "compressedBytes": 90955,
+        "uncompressedBytes": 929960,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s16_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s16_eu/monthly.ranking.json.gz",
+        "sha256": "3fea99f2199f4fe772af587d561fba38fd4093a661085c22e747433d2f364311",
+        "compressedBytes": 91281,
+        "uncompressedBytes": 933628,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s17_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s17_eu/monthly.ranking.json.gz",
+        "sha256": "a3aa299a7a994362ad8ae8bb5c097c4bf0b00f03170d2924946ee3ecc874d475",
+        "compressedBytes": 90609,
+        "uncompressedBytes": 932341,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s18_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s18_eu/monthly.ranking.json.gz",
+        "sha256": "9a8f21e8f3d2cb43d579b4f79e34c127766d46ae4bbb0eff5855f93855c5c694",
+        "compressedBytes": 90057,
+        "uncompressedBytes": 929530,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s19_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s19_eu/monthly.ranking.json.gz",
+        "sha256": "edf23bf7f497aef018446402430ef334c7c735cd85d5663e48d2e334dd937355",
+        "compressedBytes": 87232,
+        "uncompressedBytes": 896491,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 481,
+        "guildCount": 10
+      },
+      "s20_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s20_eu/monthly.ranking.json.gz",
+        "sha256": "034b0c9e7293334e81edad4d712628f480d7bf6f3c2252b39a37994804fde43c",
+        "compressedBytes": 89678,
+        "uncompressedBytes": 932180,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s21_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s21_eu/monthly.ranking.json.gz",
+        "sha256": "f39d1999fd5a00938c2833d94fedbd9b103d1cd80a20746f4b6fe7ff8bd620c1",
+        "compressedBytes": 89458,
+        "uncompressedBytes": 922776,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 496,
+        "guildCount": 10
+      },
+      "s22_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s22_eu/monthly.ranking.json.gz",
+        "sha256": "b2e7be49fdd0b592db0214cd9732d6f462c1c0ba7526010c1051a5c3f0b405f8",
+        "compressedBytes": 90066,
+        "uncompressedBytes": 929971,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s23_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s23_eu/monthly.ranking.json.gz",
+        "sha256": "41e840d4ee38eed3bfc8637a26d4373746527acc898824c1a3ccec21b3ea0ff2",
+        "compressedBytes": 89457,
+        "uncompressedBytes": 928032,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 10
+      },
+      "s24_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s24_eu/monthly.ranking.json.gz",
+        "sha256": "807cafdb1d14227fddbec215e5a6dbd93bec3c818244f1f00861bf1e50b5bda7",
+        "compressedBytes": 89136,
+        "uncompressedBytes": 930262,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s25_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s25_eu/monthly.ranking.json.gz",
+        "sha256": "bb89a864b639527ae3bc2bda61ec2da0526f5a2a6af3608133d12b6bc7d24fa6",
+        "compressedBytes": 88237,
+        "uncompressedBytes": 928212,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s26_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s26_eu/monthly.ranking.json.gz",
+        "sha256": "1411b41a8b940489bdd85c009eecd8b9bd0fa7d66637aa182780bf6494d44c71",
+        "compressedBytes": 87625,
+        "uncompressedBytes": 929292,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s27_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s27_eu/monthly.ranking.json.gz",
+        "sha256": "d37ea105d6e14ad0a0d7380e6547fc35c9f070cb453ae03f7c0e402b5af2e2cb",
+        "compressedBytes": 86751,
+        "uncompressedBytes": 926663,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s28_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s28_eu/monthly.ranking.json.gz",
+        "sha256": "db29cd45c413df8470a6a167c5b629c366bb52a7604b472b66ee0adb040f25f1",
+        "compressedBytes": 85843,
+        "uncompressedBytes": 926966,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s29_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s29_eu/monthly.ranking.json.gz",
+        "sha256": "844fa1a8a1a216affd31a957a6a5ba013fe2974fe5aaaf364934d75e8e76cd2c",
+        "compressedBytes": 82423,
+        "uncompressedBytes": 913730,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 499,
+        "guildCount": 6
+      },
+      "s5_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s5_eu/monthly.ranking.json.gz",
+        "sha256": "d503fb5863eab14ca896ed6bea11bd2689aada0973dbd3d66587b7cda1ba8528",
+        "compressedBytes": 91592,
+        "uncompressedBytes": 925044,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s6_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s6_eu/monthly.ranking.json.gz",
+        "sha256": "136a6aa09429fb9b2aaaaf06789e55b867158e399f7a6fb2145cbad9e6242251",
+        "compressedBytes": 91752,
+        "uncompressedBytes": 928836,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "s7_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s7_eu/monthly.ranking.json.gz",
+        "sha256": "717c7fd99d6136707649575a16c9d8aacc5a2d36567a4f85b54bcbabc4d1f73d",
+        "compressedBytes": 91881,
+        "uncompressedBytes": 925395,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 498,
+        "guildCount": 10
+      },
+      "s8_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s8_eu/monthly.ranking.json.gz",
+        "sha256": "866883399eaf0dbb0d0e2be71102d0178d6a3a1983db45ad433b438b261f4db2",
+        "compressedBytes": 91616,
+        "uncompressedBytes": 930714,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 501,
+        "guildCount": 10
+      },
+      "s9_eu": {
+        "schemaVersion": 1,
+        "path": "2026-08/s9_eu/monthly.ranking.json.gz",
+        "sha256": "8e21b8f9f0bda035611f48d648bb289cc3c1d55b060fdcdd9f4fe1169393bbc8",
+        "compressedBytes": 91927,
+        "uncompressedBytes": 929319,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 500,
+        "guildCount": 10
+      },
+      "stumblesteppe_net": {
+        "schemaVersion": 1,
+        "path": "2026-08/stumblesteppe_net/monthly.ranking.json.gz",
+        "sha256": "ed19082824aea0b9b52ace2d1efc8cb542fb61d1086e5ed8c335cfd806ee39c0",
+        "compressedBytes": 141042,
+        "uncompressedBytes": 1466121,
+        "cohortId": "af79d7e9bc8c95ef4910b7e402f94d5d5fe3d5dd20038349b0465995e41239be",
+        "playerCount": 751,
+        "guildCount": 15
       }
     }
   }
